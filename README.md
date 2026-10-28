@@ -26,23 +26,6 @@ Interaktywny, 3-stronicowy raport Power BI dedykowany analizie sprzedaży, marż
 <div align="center">
 
 
-<details>
-<summary><b>📚 Spis treści (Kliknij, aby rozwinąć)</b></summary>
-<br>
-
-* [1. Wstęp](#1-wstęp)
-* [2. Dane](#2-dane)
-* [3. Projekt UI/UX (Figma)](#3-projekt-uiux-figma)
-* [4. Analiza i Miary DAX](#4-analiza-i-miary-dax)
-* [5. Interaktywność raportu](#5-interaktywność-raportu)
-* [6. Podgląd dashboardu i plik do pobrania](#6-podgląd-dashboardu-i-plik-do-pobrania)
-* [7. Wnioski biznesowe](#7-wnioski-biznesowe)
-
-</details>
-
----
-
-
 
 
 
