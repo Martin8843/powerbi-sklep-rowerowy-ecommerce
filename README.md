@@ -77,7 +77,7 @@ Model danych został zorganizowany wokół centralnej tabeli faktów
 
 <!-- Podgląd schematu relacji w Power BI -->
 <p align="center">
-  <img src="nazwa-pliku-model.png" alt="Model danych - Power BI Schema" width="100%">
+  <img src="model_danych.png" alt="Model danych - Power BI Schema" width="100%">
 </p>
 
 
