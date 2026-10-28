@@ -178,7 +178,7 @@ RETURN
 ```
 **Cel analityczny:** Pozwala rzetelnie ocenić dynamikę wzrostu biznesu z uwzględnieniem sezonowości.
 
-#### 6. Udział wolumenowy TOP produktów (Top Products Volume Share)
+#### 5. Udział wolumenowy TOP produktów (Top Products Volume Share)
 
 ```dax
 Top Products Volume Share = 
