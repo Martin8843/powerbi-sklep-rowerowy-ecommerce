@@ -143,8 +143,9 @@ Aby przeanalizować sprzedaż w branży rowerowej, stworzyłem dedykowany zestaw
 
 PrzykładY:
 
-**Całkowity przychód (Total Revenue)**
+* **Całkowity przychód (Total Revenue)**
 Total Revenue = SUM('Fact_Sales'[Revenue])
+<br>
 Cel: 
 Jest to podstawowy wskaźnik pokazujący, jaką całkowitą wartość sprzedaży wygenerował sklep w danym okresie <br>
 Stanowi fundament pod wszystkie dalsze wyliczenia finansowe
