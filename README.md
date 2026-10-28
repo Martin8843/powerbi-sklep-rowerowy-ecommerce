@@ -231,24 +231,24 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu.
 
 #### Wizualiacje (przykłady):
 
-* **Karty KPI**
+* **1. Karty KPI**
 <p align="center">
     <img src="/raport_glowny/kpi_sales_overview.png" alt="Sales Overview" width="700">
   </p>
 
-* **1. Całkowita sprzedaż i wskaźniki jednostkowe** (`Zielona karta`)
+* **Całkowita sprzedaż i wskaźniki jednostkowe** (`Zielona karta`)
   * **Total Sales:** Główna wartość pokazująca całkowity przychód wygenerowany przez sklep w wybranym okresie.
   * **Average Profit (Gauge):** Średni zysk przypadający na jedno zamówienie.
   * **Average Order Value (Gauge):** Średnia wartość koszyka zakupowego.
 
   Cel analityczny: Szybka ocena skali biznesu oraz rentowności pojedynczej transakcji.
 
-* **2. Segmenty Przychodowe (`Beżowa karta`)**
+* **Segmenty Przychodowe (`Beżowa karta`)**
   * **Wykres słupkowy:** Prezentuje rozkład przychodów sklepu rowerowego w podziale na grupy demograficzne klientów:
 
   Cel analityczny: Szybka identyfikacja kluczowej grupy docelowej, która przynosi największe przychody dla biznesu.
 
-* **3. Dynamika sprzedaży (`Fioletowa karta`)**
+* **Dynamika sprzedaży (`Fioletowa karta`)**
   * Sales Growth Rate: Wyrazista, pojedyncza karta KPI przedstawiająca dynamikę wzrostu przychodów w ujęciu rocznym (YoY).
     
   Cel analityczny: Błyskawiczna informacja o tempie rozwoju oraz wysokiej skalowalności biznesu rowerowego.
