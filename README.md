@@ -55,7 +55,7 @@ Interaktywny, 3-stronicowy raport Power BI dedykowany analizie sprzedaży, marż
 
 
 <!-- Sekcja Strony 2 -->
-<div id="strona-1" align="center">
+<div id="strona-2" align="center">
 
 ### 🚲 Strona 2:  Analiza Produktów
 
@@ -69,7 +69,7 @@ Interaktywny, 3-stronicowy raport Power BI dedykowany analizie sprzedaży, marż
 <br>
 
 <!-- Sekcja Strony 3 -->
-<div id="strona-1" align="center">
+<div id="strona-3" align="center">
 
 ### Strona 3:  Analiza Klientów
 
