@@ -4,7 +4,7 @@
 
 Interaktywny, 3-stronicowy raport Power BI dedykowany analizie sprzedaży, marżowości oraz klientów dla europejskiego e-commerce w branży rowerowej (Sprzedaż, Produkt, Klient). 
 
-## Podgląd stron raportu (Kliknij, aby rozwinąć stronę)
+# Podgląd stron raportu (Kliknij, aby rozwinąć stronę)
 
 <details>
 <summary><b>📄 Ogólny Przegląd Sprzedaży </b></summary>
@@ -25,7 +25,7 @@ Interaktywny, 3-stronicowy raport Power BI dedykowany analizie sprzedaży, marż
 </details>
 
 <details>
-<summary><b>📄 Analiza Klientów (Customer Analytics)</b></summary>
+<summary><b>📄 Analiza Klientów </b></summary>
 <br>
 
 <p align="center">
