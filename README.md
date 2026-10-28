@@ -7,7 +7,7 @@ Interaktywny, 3-stronicowy raport Power BI dedykowany analizie sprzedaży, marż
 __Podgląd stron raportu (Kliknij, aby rozwinąć stronę)__
 
 <details>
-<summary><b>📄 Ogólny Przegląd Sprzedaży </b></summary>
+<summary></b>📄 Ogólny Przegląd Sprzedaży </b></summary>
 <br>
 
 <p align="center">
