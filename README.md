@@ -8,7 +8,7 @@ Interaktywny, 3-stronicowy raport Power BI dedykowany analizie sprzedaży, marż
 
 <div align="center">
 
-### W celu prezentacji wybierz stronę raportu:
+### Wybierz stronę raportu do podglądu:
 
 <div align="center">
 
