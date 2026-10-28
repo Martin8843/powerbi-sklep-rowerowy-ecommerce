@@ -30,46 +30,38 @@ Interaktywny, 3-stronicowy raport Power BI dedykowany analizie sprzedaży, marż
 
 ### 📚 Spis treści
 #### Kliknij aby rozwinąć
+<div id="1-wstęp"></div>
 <details>
-<summary><h4>1. Problem biznesowy i cele projektu </h4></summary>
+<summary><b>🎯 1. Problem biznesowy i cele projektu</b> <i>(kliknij, aby rozwinąć)</i></summary>
+
 <br>
 
 Zarząd e-commerce rowerowego potrzebował **spójnego wglądu w realną rentowność produktów i klientów**, ponieważ rozproszone dane utrudniały podejmowanie decyzji o marżach i budżetach marketingowych.
 
-Cele:
-* Zidentyfikowanie, które linie rowerów i akcesoriów faktycznie generują zysk, a które obniżają rentowność biznesu.
-* Śledzenie dynamiki przychodów w czasie oraz wykrywanie sezonowości w branży e-commerce.
-* Określenie profilu najbardziej wartościowego klienta oraz geograficznego rozkładu zamówień.
-
+**Główne cele, które rozwiązuje ten raport:**
+* **Brak przejrzystości marży:** Zidentyfikowanie, które linie rowerów i akcesoriów faktycznie generują zysk.
+* **Optymalizacja sprzedaży:** Śledzenie dynamiki przychodów w czasie i wykrywanie sezonowości.
+* **Zrozumienie klienta:** Określenie profilu najbardziej wartościowego klienta i geograficznego rozkładu zamówień.
 </details>
+
 <div id="2-dane"></div>
 <details>
-<summary><h4>2. Dane </h4></summary>
+<summary><b>📊 2. Dane</b> <i>(kliknij, aby rozwinąć)</i></summary>
+
 <br>
 
-### a. Źródło danych
-* **Baza danych:** Relacyjna baza danych e-commerce (np. *AdventureWorks / własne źródło OLTP*).
-* **Format danych:** Pliki `.csv` / tabele SQL zawierające dane transakcyjne, słowniki produktów oraz dane o klientach.
+#### a. Źródło danych
+* **Baza danych:** Relacyjna baza danych e-commerce (np. *AdventureWorks*).
+* **Format danych:** Pliki `.csv` / tabele SQL (dane transakcyjne, słowniki produktów, klienci).
 
-### b. Zakres i struktura danych
-* **Okres czasowy:** Dane obejmują transakcje z lat [np. 2021 – 2024].
-* **Główne obszary danych:**
-  * **Fakty:** Zamówienia i pozycje zamówień (przychód, koszt, wolumen, rabaty).
-  * **Wymiary:** Produkty (kategorie, podkategorie, ceny), Klienci (demografia, lokalizacja), Kalendarz (czas/sezonowość), Geografia.
-
+#### b. Zakres i struktura danych
+* **Okres czasowy:** Transakcje z lat [np. 2021 – 2024].
+* **Główne obszary:**
+  * **Fakty:** Zamówienia (przychód, koszt, wolumen, marża).
+  * **Wymiary:** Produkty, Klienci, Kalendarz, Geografia.
 </details>
 
-<br>
-
 ---
-
-
-
-
-
-
-
-
 
 
 
