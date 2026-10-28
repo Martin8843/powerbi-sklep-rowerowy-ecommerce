@@ -103,40 +103,34 @@ Zanim powstał raport w Power BI, cały interfejs został zaprojektowany od pods
 * Tła oraz statyczne elementy interfejsu wygenerowałem jako czyste grafiki w Figmie i importowałem w bezpośrednio do PowerBI jako tło kanwy.
 
 
-#### Makiety layoutów:
+#### 🎨 Makiety layoutów:
 
-<p align="center">
-  <img src="./layout_design/Landing page.png" alt="Strona startowa" width="50%">
-</p>
-
-<br>
-
-<p align="center">
-  <img src="./layout_design/Sales_Overview.png" alt="Przegląd Sprzedaży" width="50%">
-</p>
-
-<br>
-
-<p align="center">
-  <img src="./layout_design/Customer Overview.png" alt="Analiza Produktów" width="50%">
-</p>
-
-<br>
-
-<p align="center">
-  <img src="./layout_design/Product Overview.png" alt="Analiza Klientów" width="50%">
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <b>Strona Startowa</b><br>
+      <img src="./layout_design/Landing page.png" alt="Strona startowa" width="100%">
+    </td>
+    <td width="50%" align="center">
+      <b>Przegląd Sprzedaży</b><br>
+      <img src="./layout_design/Sales_Overview.png" alt="Przegląd Sprzedaży" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <b>Analiza Produktów</b><br>
+      <img src="./layout_design/Customer Overview.png" alt="Analiza Produktów" width="100%">
+    </td>
+    <td width="50%" align="center">
+      <b>Analiza Klientów</b><br>
+      <img src="./layout_design/Product Overview.png" alt="Analiza Klientów" width="100%">
+    </td>
+  </tr>
+</table>
 
 <br>
 
 </details>
-
-
-
-
-
-
-
 
 
 
