@@ -87,6 +87,58 @@ Model danych został zorganizowany wokół centralnej tabeli faktów
 
 </details>
 
+<div id="4-projekt-ui-ux-figma"></div>
+<details>
+<summary><b> 4. Zaprojektowanie widoki raportów w Figma  </b> <i></i></summary>
+
+Zanim powstał raport w Power BI, cały interfejs został zaprojektowany od podstaw w programie **Figma**. <br>Takie podejście pozwoliło na spójne zaplanowanie architektury informacji, hierarchii wizualnej oraz customowych elementów graficznych.
+
+* **Projekt oparłej na przemyślanej palecie kolorów nawiązującej do branży rowerowej (dynamiczne żółcie, głębokie błękity i zieleń analityczna).
+* **Stworzyłem makiety dla 3 głównych zakładek analitycznych:
+  1. *Przegląd Sprzedaży* – KPI, trendy czasowe i mapy geograficzne.
+  2. *Analiza Produktów* – marżowość, podkategorie i bestsellery.
+  3. *Analiza Klientów* – segmentacja wiekowa, demografia i zachowania zakupowe.
+* **Tła oraz statyczne elementy interfejsu wygenerowałem jako czyste grafiki w Figmie, co odciążyło Power BI i zapewniło nowoczesny wygląd wolny od wizualnego chaosu.
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <br><br><br><br>
 <!-- Sekcja Strony 1 -->
