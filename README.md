@@ -144,6 +144,7 @@ Aby przeanalizować sprzedaż w branży rowerowej, stworzyłem dedykowany zestaw
 PrzykładY:
 
 * **Całkowity przychód (Total Revenue)**
+<br>
 Total Revenue = SUM('Fact_Sales'[Revenue])
 <br>
 Cel: 
