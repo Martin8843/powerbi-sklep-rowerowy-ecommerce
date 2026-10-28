@@ -141,6 +141,7 @@ Zanim powstał raport w Power BI, cały interfejs został zaprojektowany od pods
 <br>
 Aby przeanalizować sprzedaż w branży rowerowej, stworzyłem dedykowany zestaw miar DAX (wykorzystujących funkcje takie jak `CALCULATE`, `ALL`, `DIVIDE` czy zmienne `VAR`) 
 <br>
+  
 **Całkowity przychód (Total Revenue)**
 
 > ```dax
