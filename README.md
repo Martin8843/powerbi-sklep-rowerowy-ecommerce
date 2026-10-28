@@ -221,11 +221,16 @@ RETURN
 <summary><b> 6. Data Storytelling & Wizualizacje </b> <i></i></summary>
 
 <br>
-Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu i hierarchii wizualnej. Każda wizualizacja pełni określoną rolę w narracji analitycznej:
+Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu.
 
 ---
 
-#### 📊 Omówienie widoków i zastosowanych wizualizacji:
+#### Wizualiacje:
+
+* **Strona Sales Overview
+<p align="center">
+    <img src="/raport_glowny/kpi_sales_overview.png" alt="Sales Overview" width="700">
+  </p>
 
 
 </details>
