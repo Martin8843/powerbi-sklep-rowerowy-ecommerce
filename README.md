@@ -13,10 +13,10 @@ Interaktywny, 3-stronicowy raport Power BI dedykowany analizie sprzedaży, marż
   <img src="https://img.shields.io/badge/📄Przegląd_Sprzedaży-F2C811?style=for-the-badge&logoColor=black">
 </a>
 <a href="#strona-2">
-  <img src="https://img.shields.io/badge/📄_Strona_2-Analiza_Produktów-2A75D3?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/📄Analiza_Produktów-2A75D3?style=for-the-badge&logoColor=white">
 </a>
 <a href="#strona-3">
-  <img src="https://img.shields.io/badge/📄_Strona_3-Analiza_Klientów-107C41?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/📄Analiza_Klientów-107C41?style=for-the-badge&logoColor=white">
 </a>
 
 </div>
