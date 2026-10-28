@@ -16,7 +16,7 @@ __Podgląd stron raportu (Kliknij, aby rozwinąć stronę)__
 </details>
 
 <details>
-<summary><b>📄 Analiza Asortymentu i Marżowości </b></summary>
+<summary></b>📄 Analiza Asortymentu i Marżowości </b></summary>
 <br>
 
 <p align="center">
@@ -25,7 +25,7 @@ __Podgląd stron raportu (Kliknij, aby rozwinąć stronę)__
 </details>
 
 <details>
-<summary><b>📄 Analiza Klientów </b></summary>
+<summary></b>📄 Analiza Klientów </b></summary>
 <br>
 
 <p align="center">
