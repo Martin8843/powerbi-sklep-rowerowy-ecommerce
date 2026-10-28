@@ -63,7 +63,6 @@ Zarząd e-commerce rowerowego potrzebował **spójnego wglądu w realną rentown
 * **Koszty i rentowność:** *Unit_Cost*, *Cost*, *Profit* (zysk)
 </details>
 
----
 
 <div id="3-model danych"></div>
 <details>
@@ -77,9 +76,6 @@ Model danych został zorganizowany wokół centralnej tabeli faktów
 * **Tabela Wymiaru (`Dim_Date`):** Dedykowana tabela kalendarza połączona relacją jednokierunkową **1:* (Jeden do Wiele)** z tabelą faktów, umożliwiająca zaawansowaną analizę czasową (Time Intelligence).
 * **Tabela Miar (`tb_measures`):** Osobna tabela techniczna służąca jako spójny kontener na wszystkie utworzone miary DAX, co ułatwia zarządzanie kodem.
 </details>
-
----
-
 
 
 
