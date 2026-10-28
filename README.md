@@ -50,7 +50,7 @@ Zarząd e-commerce rowerowego potrzebował **spójnego wglądu w realną rentown
 <br>
 
 ##### a. Źródło danych
-* **Pochodzenie i format danych:** Publiczny zbiór danych z platformy **Kaggle**, plik *.csv
+* **Pochodzenie i format danych:** Publiczny zbiór danych z platformy **Kaggle**, plik *.csv**
 
 ##### b. Zakres 
 * **Czas:** Dokładna data (dzień, miesiąc, rok)
