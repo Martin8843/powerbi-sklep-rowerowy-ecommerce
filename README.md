@@ -225,13 +225,19 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu.
 
 ---
 
-#### Wizualiacje:
+#### Wizualiacje (przykłady):
 
 * **Wskaźniki KPI**
 <p align="center">
     <img src="/raport_glowny/kpi_sales_overview.png" alt="Sales Overview" width="700">
   </p>
 
+1. ##Całkowita sprzedaż i wskaźniki jednostkowe (Karta i wykres wskaźnikowy)
+   Total Sales: Główna wartość pokazująca całkowity przychód wygenerowany przez sklep w wybranym okresie.
+   Average Profit: Średni zysk przypadający na jedno zamówienie.
+   Average Order Value: Średnia wartość koszyka zakupowego.
+   
+   Cel analityczny: Szybka ocena skali biznesu oraz rentowności pojedynczej transakcji.
 
 </details>
 
