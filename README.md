@@ -37,7 +37,7 @@ Interaktywny, 3-stronicowy raport Power BI dedykowany analizie sprzedaży, marż
 
 Zarząd e-commerce rowerowego potrzebował **spójnego wglądu w realną rentowność produktów i klientów**, ponieważ rozproszone dane utrudniały podejmowanie decyzji o marżach i budżetach marketingowych.
 
-**Główne cele, które rozwiązuje ten raport:**
+**Cele:**
 * Zidentyfikowanie, które linie rowerów i akcesoriów faktycznie generują zysk.
 * Śledzenie dynamiki przychodów w czasie i wykrywanie sezonowości.
 * Określenie profilu najbardziej wartościowego klienta i geograficznego rozkładu zamówień.
