@@ -213,6 +213,21 @@ RETURN
 ```
 **Cel analityczny:** Pozwala zweryfikować zasadę Pareto (czy kluczowy zysk idzie w parze z wolumenem) oraz ocenić, jak duże jest uzależnienie sprzedaży od topowego asortymentu w sklepie rowerowym.
 
+
+</details>
+
+<div id="6-prezentacja wynikow"></div>
+<details>
+<summary><b> 6. Data Storytelling & Wizualizacje </b> <i></i></summary>
+
+<br>
+Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu i hierarchii wizualnej. Każda wizualizacja pełni określoną rolę w narracji analitycznej:
+
+---
+
+#### 📊 Omówienie widoków i zastosowanych wizualizacji:
+
+
 </details>
 
 
