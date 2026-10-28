@@ -49,16 +49,16 @@ Zarząd e-commerce rowerowego potrzebował **spójnego wglądu w realną rentown
 
 <br>
 
-#### a. Źródło danych
+##### a. Źródło danych
 * **Pochodzenie i format danych:** Publiczny zbiór danych z platformy **Kaggle**, plik *.csv
 
-#### b. Zakres 
+##### b. Zakres 
 * **Czas:** Dokładna data (dzień, miesiąc, rok)
 * **Demografia:** Wiek (liczbowo oraz grupy wiekowe: *Youth*, *Adults*) i płeć klientów.
 * **Geografia:** Kraj (*Country*) i region/stan (*State*).
 * **Produkty:** Kategoria (*Product_Category*: rowery/akcesoria), Podkategoria (*Sub_Category*) oraz nazwa modelu (*Product*).
 
-#### c. Miary finansowe
+##### c. Miary finansowe
 * **Wolumen i przychody:** *Order_Quantity* (sztuki), *Unit_Price*, *Revenue* (przychód).
 * **Koszty i rentowność:** *Unit_Cost*, *Cost*, *Profit* (zysk)
 </details>
