@@ -102,9 +102,6 @@ Zanim powstał raport w Power BI, cały interfejs został zaprojektowany od pods
   4. *Strona Start*
 * Tła oraz statyczne elementy interfejsu wygenerowałem jako czyste grafiki w Figmie i importowałem w bezpośrednio do PowerBI jako tło kanwy.
 
-</details>
-
-<br>
 
 #### Makiety layoutów:
 
@@ -131,6 +128,8 @@ Zanim powstał raport w Power BI, cały interfejs został zaprojektowany od pods
 </p>
 
 <br>
+
+</details>
 
 
 
