@@ -140,20 +140,15 @@ Zanim powstał raport w Power BI, cały interfejs został zaprojektowany od pods
 <summary><b> 5. Logika biznesowa sklepu i kluczowe miary DAX  </b> <i></i></summary>
 <br>
 Aby przeanalizować sprzedaż w branży rowerowej, stworzyłem dedykowany zestaw miar DAX (wykorzystujących funkcje takie jak `CALCULATE`, `ALL`, `DIVIDE` czy zmienne `VAR`). 
-    
 <br>
 
 Przykłady:
 
-<p><b>Całkowity przychód (Total Revenue)</b></p>
-
-```dax
-Total Revenue = SUM('Fact_Sales'[Revenue])
-
-</details>
-
-
-
+**Całkowity przychód (Total Revenue)**
+>
+> ```dax
+> Total Revenue = SUM('Fact_Sales'[Revenue])
+> ```
 
 
 
