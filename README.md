@@ -106,25 +106,25 @@ Zanim powstał raport w Power BI, cały interfejs został zaprojektowany od pods
 #### Makiety layoutów:
 
 <p align="center">
-  <img src="path/to/Landing page.png" alt="Figma Layout - Przegląd Sprzedaży" width="50%">
+  <img src="./layout_design/Landing page.png" alt="Strona startowa" width="50%">
 </p>
 
 <br>
 
 <p align="center">
-  <img src="path/to/Sales_Overview.png" alt="Figma Layout - Przegląd Sprzedaży" width="50%">
+  <img src="./layout_design/Sales_Overview.png" alt="Przegląd Sprzedaży" width="50%">
 </p>
 
 <br>
 
 <p align="center">
-  <img src="path/to/Customer Overview.png" alt="Figma Layout - Analiza Produktów" width="50%">
+  <img src="./layout_design/Customer Overview.png" alt="Analiza Produktów" width="50%">
 </p>
 
 <br>
 
 <p align="center">
-  <img src="path/to/Product Overview.png" alt="Figma Layout - Analiza Klientów" width="50%">
+  <img src="./layout_design/Product Overview.png" alt="Analiza Klientów" width="50%">
 </p>
 
 <br>
