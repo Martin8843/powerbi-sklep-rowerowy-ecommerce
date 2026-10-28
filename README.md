@@ -232,7 +232,7 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu.
     <img src="/raport_glowny/kpi_sales_overview.png" alt="Sales Overview" width="700">
   </p>
 
-* **1. Całkowita sprzedaż i wskaźniki jednostkowe (<span style="color: #2e7d32; font-weight: bold;">Zielona karta</span>)**
+* **1. Całkowita sprzedaż i wskaźniki jednostkowe** (`Zielona karta`)
   * **Total Sales:** Główna wartość pokazująca całkowity przychód wygenerowany przez sklep w wybranym okresie.
   * **Average Profit (Gauge):** Średni zysk przypadający na jedno zamówienie.
   * **Average Order Value (Gauge):** Średnia wartość koszyka zakupowego.
