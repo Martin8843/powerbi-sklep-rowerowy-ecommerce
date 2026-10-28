@@ -152,7 +152,6 @@ Aby przeanalizować sprzedaż w branży rowerowej, stworzyłem dedykowany zestaw
 Stanowi fundament pod dalsze wyliczenia finansowe (marża, zysk netto, AOV).
 </details>
 
----
 
 
 
