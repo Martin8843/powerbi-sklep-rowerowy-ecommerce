@@ -31,6 +31,27 @@ Interaktywny, 3-stronicowy raport Power BI dedykowany analizie sprzedaży, marż
 ### 📚 Spis treści
 
 * [1. Wstęp](#1-wstęp)
+
+<div id="1-wstęp"></div>
+
+## 🎯 1. Problem biznesowy i cel projektu
+
+Zarząd średniej wielkości sklepu rowerowego w kanałach e-commerce zmagał się z wyzwaniem **rozproszonych danych sprzedażowych oraz brakiem spójnego wglądu w realną rentowność poszczególnych kategorii produktów i segmentów klientów**. Utrudniało to szybkie podejmowanie decyzji dotyczących polityki marżowej oraz optymalizacji budżetów marketingowych.
+
+**Główne cele, które rozwiązuje ten raport:**
+* **Brak przejrzystości marży:** Zidentyfikowanie, które linie rowerów i akcesoriów faktycznie generują zysk, a które obniżają rentowność biznesu.
+* **Optymalizacja sprzedaży:** Śledzenie dynamiki przychodów w czasie oraz wykrywanie sezonowości w branży e-commerce.
+* **Zrozumienie klienta:** Określenie profilu najbardziej wartościowego klienta oraz geograficznego rozkładu zamówień w celu personalizacji kampanii reklamowych.
+
+Projekt stanowi kompletne rozwiązanie BI (end-to-end) – od surowych danych, przez modelowanie w schemat gwiazdy i zaawansowane miary DAX, aż po autorski interfejs w Figmie.
+
+<br>
+
+<!-- Tutaj wklejasz Twój podgląd GIF dla 1. strony 
+
+
+
+
 * [2. Dane](#2-dane)
 * [3. Projekt UI/UX (Figma)](#3-projekt-uiux-figma)
 * [4. Analiza i Miary DAX](#4-analiza-i-miary-dax)
@@ -38,7 +59,6 @@ Interaktywny, 3-stronicowy raport Power BI dedykowany analizie sprzedaży, marż
 * [6. Podgląd dashboardu i plik do pobrania](#6-podgląd-dashboardu-i-plik-do-pobrania)
 * [7. Wnioski biznesowe](#7-wnioski-biznesowe)
 
-</div>
 
 ---
 
