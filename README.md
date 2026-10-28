@@ -38,9 +38,9 @@ Interaktywny, 3-stronicowy raport Power BI dedykowany analizie sprzedaży, marż
 Zarząd e-commerce rowerowego potrzebował **spójnego wglądu w realną rentowność produktów i klientów**, ponieważ rozproszone dane utrudniały podejmowanie decyzji o marżach i budżetach marketingowych.
 
 **Główne cele, które rozwiązuje ten raport:**
-* **Brak przejrzystości marży:** Zidentyfikowanie, które linie rowerów i akcesoriów faktycznie generują zysk.
-* **Optymalizacja sprzedaży:** Śledzenie dynamiki przychodów w czasie i wykrywanie sezonowości.
-* **Zrozumienie klienta:** Określenie profilu najbardziej wartościowego klienta i geograficznego rozkładu zamówień.
+* Zidentyfikowanie, które linie rowerów i akcesoriów faktycznie generują zysk.
+* Śledzenie dynamiki przychodów w czasie i wykrywanie sezonowości.
+* Określenie profilu najbardziej wartościowego klienta i geograficznego rozkładu zamówień.
 </details>
 
 <div id="2-dane"></div>
@@ -50,14 +50,18 @@ Zarząd e-commerce rowerowego potrzebował **spójnego wglądu w realną rentown
 <br>
 
 #### a. Źródło danych
-* **Baza danych:** Relacyjna baza danych e-commerce (np. *AdventureWorks*).
-* **Format danych:** Pliki `.csv` / tabele SQL (dane transakcyjne, słowniki produktów, klienci).
+* **Pochodzenie:** Publiczny zbiór danych z platformy **Kaggle**.
+* **Zakres:** Dane transakcyjne sprzedaży rowerów i akcesoriów na rynku europejskim.
 
-#### b. Zakres i struktura danych
-* **Okres czasowy:** Transakcje z lat [np. 2021 – 2024].
-* **Główne obszary:**
-  * **Fakty:** Zamówienia (przychód, koszt, wolumen, marża).
-  * **Wymiary:** Produkty, Klienci, Kalendarz, Geografia.
+#### b. Zakres 
+* **Czas:** Dokładna data (dzień, miesiąc, rok)
+* **Demografia:** Wiek (liczbowo oraz grupy wiekowe: *Youth*, *Adults*) i płeć klientów.
+* **Geografia:** Kraj (*Country*) i region/stan (*State*).
+* **Produkty:** Kategoria (*Product_Category*: rowery/akcesoria), Podkategoria (*Sub_Category*) oraz nazwa modelu (*Product*).
+
+#### c. Miary finansowe
+* **Wolumen i przychody:** *Order_Quantity* (sztuki), *Unit_Price*, *Revenue* (przychód).
+* **Koszty i rentowność:** *Unit_Cost*, *Cost*, *Profit* (zysk)
 </details>
 
 ---
