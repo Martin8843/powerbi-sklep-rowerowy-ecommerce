@@ -2,6 +2,8 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
+Interaktywny, 3-stronicowy raport Power BI dedykowany analizie sprzedaży, marżowości oraz klientów dla europejskiego e-commerce w branży rowerowej (Sprzedaż, Produkt, Klient). 
+
 
 <div align="center">
 
@@ -21,6 +23,16 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
 <!-- Sekcja Strony 1 -->
 <div id="strona-1" align="center">
 
@@ -29,44 +41,15 @@
 <img src="sales-overview.gif" alt="Strona 1 - Sales Overview" width="100%">
 
 <a href="#">
-  <img src="https://img.shields.io/badge/⬆_Powrót_do_menu-gray?style=flat" alt="Powrót">
+  <img src="https://img.shields.io/badge/⬆_Powrót_do_menu-F2C811?style=for-the-badge&logoColor=black" alt="Powrót">
 </a>
-
 </div>
 
 <br>
 
 
-Interaktywny, 3-stronicowy raport Power BI dedykowany analizie sprzedaży, marżowości oraz klientów dla europejskiego e-commerce w branży rowerowej (Sprzedaż, Produkt, Klient). 
 
 
 
-
-
-__Podgląd stron raportu (Kliknij, aby rozwinąć stronę)__
-
-<details>
-<summary></b>📄 Ogólny Przegląd Sprzedaży </b></summary>
-<br>
-
-<p align="center">
-  <img src="sales-overview.gif" alt="Strona 1 - Sales Overview" width="100%">
-</p>
-</details>
-
-<details>
-<summary></b>📄 Analiza Asortymentu i Marżowości </b></summary>
-<br>
-
-<p align="center">
-  <img src="product_overview.gif" alt="Strona 2 - Product Analytics" width="100%">
-</p>
-</details>
-
-<details>
-<summary></b>📄 Analiza Klientów </b></summary>
-
-
-  <div align="center">
 
 
