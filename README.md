@@ -2,7 +2,7 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-Interaktywny, 3-stronicowy raport Power BI dedykowany analizie sprzedaży, marżowości oraz klientów dla europejskiego e-commerce w branży rowerowej (Sprzedaż, Produkt, Klient). 
+Interaktywny, 3-stronicowy raport Power BI dedykowany analizie sprzedaży, marżowości oraz klientów dla europejskiego e-commerce w branży rowerowej (Sprzedaż, Produkt, Klient). Projekt stanowi kompletne rozwiązanie BI – od surowych danych, przez modelowanie i zaawansowane miary DAX, aż po autorski interfejs w Figmie.
 
 
 <div align="center">
@@ -30,16 +30,24 @@ Interaktywny, 3-stronicowy raport Power BI dedykowany analizie sprzedaży, marż
 
 ### 📚 Spis treści
 
-#### 1. Problem biznesowy i cele projektu
+### Kliknij aby rozwinąć
+
+<details>
+<summary><h2>🎯 1. Problem biznesowy i cele projektu (Kliknij, aby rozwinąć)</h2></summary>
+<br>
 
 Zarząd e-commerce rowerowego potrzebował **spójnego wglądu w realną rentowność produktów i klientów**, ponieważ rozproszone dane utrudniały podejmowanie decyzji o marżach i budżetach marketingowych.
 
-Cele:
-* Zidentyfikowanie, które linie rowerów i akcesoriów faktycznie generują zysk, a które obniżają rentowność biznesu.
-* Śledzenie dynamiki przychodów w czasie oraz wykrywanie sezonowości w branży e-commerce.
-* Określenie profilu najbardziej wartościowego klienta oraz geograficznego rozkładu zamówień.
+**Główne cele, które rozwiązuje ten raport:**
+* **Brak przejrzystości marży:** Zidentyfikowanie, które linie rowerów i akcesoriów faktycznie generują zysk.
+* **Optymalizacja sprzedaży:** Śledzenie dynamiki przychodów w czasie i wykrywanie sezonowości.
+* **Zrozumienie klienta:** Określenie profilu najbardziej wartościowego klienta i geograficznego rozkładu zamówień.
 
-Projekt stanowi kompletne rozwiązanie BI (end-to-end) – od surowych danych, przez modelowanie w schemat gwiazdy i zaawansowane miary DAX, aż po autorski interfejs w Figmie.
+Projekt stanowi kompletne rozwiązanie BI (end-to-end) – od surowych danych, przez modelowanie w schemat gwiazdy i miary DAX, aż po interfejs w Figmie.
+
+</details>
+
+<br>
 
 <br>
 
