@@ -29,10 +29,9 @@ Interaktywny, 3-stronicowy raport Power BI dedykowany analizie sprzedaży, marż
 <div align="left">
 
 ### 📚 Spis treści
-#### Kliknij aby rozwinąć
 <div id="1-wstęp"></div>
 <details>
-<summary><b>🎯 1. Problem biznesowy i cele projektu</b> <i>(kliknij, aby rozwinąć)</i></summary>
+<summary><b>1. Problem biznesowy i cele projektu</b> <i>(kliknij, aby rozwinąć)</i></summary>
 
 <br>
 
@@ -46,7 +45,7 @@ Zarząd e-commerce rowerowego potrzebował **spójnego wglądu w realną rentown
 
 <div id="2-dane"></div>
 <details>
-<summary><b>📊 2. Dane</b> <i>(kliknij, aby rozwinąć)</i></summary>
+<summary><b> 2. Dane</b> <i></i></summary>
 
 <br>
 
