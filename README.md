@@ -74,6 +74,13 @@ Model danych został zorganizowany wokół centralnej tabeli faktów
 * **Tabela Faktów (`Fact_Sales`):** Główna tabela transakcyjna zawierająca kluczowe metryki finansowe (koszty, przychody, wolumen) oraz atrybuty klienta i produktu.
 * **Tabela Wymiaru (`Dim_Date`):** Dedykowana tabela kalendarza połączona relacją jednokierunkową **1:* (Jeden do Wiele)** z tabelą faktów, umożliwiająca zaawansowaną analizę czasową (Time Intelligence).
 * **Tabela Miar (`tb_measures`):** Osobna tabela techniczna służąca jako spójny kontener na wszystkie utworzone miary DAX, co ułatwia zarządzanie kodem.
+
+<!-- Podgląd schematu relacji w Power BI -->
+<p align="center">
+  <img src="nazwa-pliku-model.png" alt="Model danych - Power BI Schema" width="100%">
+</p>
+
+
 </details>
 
 
