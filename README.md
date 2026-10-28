@@ -94,7 +94,7 @@ Model danych został zorganizowany wokół centralnej tabeli faktów
 <!-- Sekcja Strony 1 -->
 <div id="strona-1" align="center">
 
-### 🚲 Strona 1: Ogólny Przegląd Sprzedaży
+### Strona 1: Ogólny Przegląd Sprzedaży
 
 <img src="sales-overview.gif" alt="Strona 1 - Sales Overview" width="100%">
 
@@ -109,7 +109,7 @@ Model danych został zorganizowany wokół centralnej tabeli faktów
 <!-- Sekcja Strony 2 -->
 <div id="strona-2" align="center">
 
-### 🚲 Strona 2:  Analiza Produktów
+### Strona 2:  Analiza Produktów
 
 <img src="product_overview.gif" alt="Strona 2 - Product Overview" width="100%">
 
