@@ -42,9 +42,6 @@ Cele:
 * Określenie profilu najbardziej wartościowego klienta oraz geograficznego rozkładu zamówień.
 
 </details>
-
-<br>
-
 <div id="2-dane"></div>
 <details>
 <summary><h4>2. Dane </h4></summary>
