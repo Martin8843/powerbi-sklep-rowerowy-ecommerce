@@ -89,7 +89,7 @@ Model danych został zorganizowany wokół centralnej tabeli faktów
 
 <div id="4-projekt-ui-ux-figma"></div>
 <details>
-<summary><b> 4. Projekt widoków w Fimga  </b> <i></i></summary>
+<summary><b> 4. Projekt widoków w Figma  </b> <i></i></summary>
 <br>
 
 Zanim powstał raport w Power BI, cały interfejs został zaprojektowany od podstaw w programie **Figma**. <br>Takie podejście pozwoliło na spójne zaplanowanie architektury informacji, hierarchii wizualnej oraz customowych elementów graficznych.
@@ -149,7 +149,10 @@ Przykłady:
 > ```dax
 > Total Revenue = SUM('Fact_Sales'[Revenue])
 > ```
+> 
 
+**Cel:** Podstawowy wskaźnik pokazujący całkowitą wartość sprzedaży wygenerowaną w danym okresie. <br>
+Stanowi fundament pod dalsze wyliczenia finansowe (marża, zysk netto, AOV).
 </details>
 
 
