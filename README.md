@@ -142,7 +142,7 @@ Zanim powstał raport w Power BI, cały interfejs został zaprojektowany od pods
 
 Aby przeanalizować sprzedaż w branży rowerowej, stworzyłem dedykowany zestaw miar DAX (wykorzystujących funkcje takie jak `CALCULATE`, `ALL`, `DIVIDE` czy zmienne `VAR`).
 
-#### 1. Całkowity przychód (Total Revenue)
+#### 1. Całkowity przychód [$] (Total Revenue)
 
 ```dax
 Total Revenue = SUM('Fact_Sales'[Revenue])
@@ -152,7 +152,7 @@ Stanowi fundament pod dalsze wyliczenia finansowe (marża, zysk netto, AOV).
 
 ---
 
-#### 2. Średnia wartość zamówienia (Global Avg Order Value)
+#### 2. Średnia wartość zamówienia [$] (Global Avg Order Value)
 
 ```dax
 Global Avg Order Value = CALCULATE([Avg Order Value], ALL('Fact_Sales'[Age_Group]))
@@ -162,7 +162,7 @@ Umożliwienie bezpośredniego porównania średniej wartości koszyka konkretnej
 
 ---
 
-#### 3. Średnia marża produktu (Avg Product Margin)
+#### 3. Średnia marża produktu [$] (Avg Product Margin)
 
 ```dax
 Avg Product Margin = DIVIDE([Total Profit], [Total Revenue], 0)
@@ -172,7 +172,7 @@ Avg Product Margin = DIVIDE([Total Profit], [Total Revenue], 0)
 
 ---
 
-#### 4. Wskaźnik sprzedaży (Sales Growth Rate)
+#### 4. Wskaźnik sprzedaży [%] (Sales Growth Rate)
 
 ```dax
 Sales Growth Rate = 
@@ -184,7 +184,7 @@ RETURN
 
 ---
 
-#### 5. Udział wolumenowy TOP produktów (Top Products Volume Share)
+#### 5. Udział wolumenowy TOP produktów [%] (Top Products Volume Share)
 
 ```dax
 Top Products Volume Share = 
