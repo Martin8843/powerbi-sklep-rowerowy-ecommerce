@@ -227,7 +227,7 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu.
 
 #### Wizualiacje:
 
-* **Strona Sales Overview
+* **Wskaźniki KPI**
 <p align="center">
     <img src="/raport_glowny/kpi_sales_overview.png" alt="Sales Overview" width="700">
   </p>
