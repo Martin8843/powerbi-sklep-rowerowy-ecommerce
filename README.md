@@ -50,7 +50,7 @@ Zarząd e-commerce rowerowego potrzebował **spójnego wglądu w realną rentown
 <br>
 
 #### a. Źródło danych
-* **Pochodzenie:** Publiczny zbiór danych z platformy **Kaggle**.
+* **Pochodzenie i format danych:** Publiczny zbiór danych z platformy **Kaggle**, plik *.csv
 * **Zakres:** Dane transakcyjne sprzedaży rowerów i akcesoriów na rynku europejskim.
 
 #### b. Zakres 
