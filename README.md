@@ -95,15 +95,42 @@ Model danych został zorganizowany wokół centralnej tabeli faktów
 Zanim powstał raport w Power BI, cały interfejs został zaprojektowany od podstaw w programie **Figma**. <br>Takie podejście pozwoliło na spójne zaplanowanie architektury informacji, hierarchii wizualnej oraz customowych elementów graficznych.
 
 * Projekt został zrobiony na przemyślanej palecie kolorów nawiązującej do branży rowerowej (dynamiczne żółcie, głębokie błękity i zieleń analityczna).
-* Stworzyłem makiety dla 3 głównych zakładek analitycznych:
+* Stworzyłem makiety dla 3 głównych zakładek analitycznych oraz strony startowej:
   1. *Przegląd Sprzedaży* – KPI, trendy czasowe i mapy geograficzne.
   2. *Analiza Produktów* – marżowość, podkategorie i bestsellery.
   3. *Analiza Klientów* – segmentacja wiekowa, demografia i zachowania zakupowe.
+  4. *Strona Start*
 * Tła oraz statyczne elementy interfejsu wygenerowałem jako czyste grafiki w Figmie i importowałem w bezpośrednio do PowerBI jako tło kanwy.
 
 </details>
 
+<br>
 
+#### Makiety layoutów:
+
+<p align="center">
+  <img src="path/to/Landing page.png" alt="Figma Layout - Przegląd Sprzedaży" width="50%">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="path/to/Sales_Overview.png" alt="Figma Layout - Przegląd Sprzedaży" width="50%">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="path/to/Customer Overview.png" alt="Figma Layout - Analiza Produktów" width="50%">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="path/to/Product Overview.png" alt="Figma Layout - Analiza Klientów" width="50%">
+</p>
+
+<br>
 
 
 
