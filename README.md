@@ -25,19 +25,18 @@ Interaktywny, 3-stronicowy raport Power BI dedykowany analizie sprzedaży, marż
 
 <div align="center">
 
+
 ### 📚 Spis treści
 
-<a href="#1-o-projekcie"><img src="https://img.shields.io/badge/1._O_Projekcie-333333?style=flat" alt="O projekcie"></a> • 
-<a href="#2-architektura-i-model-danych"><img src="https://img.shields.io/badge/2._Model_Danych-333333?style=flat" alt="Model danych"></a> • 
-<a href="#3-proces-etl-i-power-query"><img src="https://img.shields.io/badge/3._ETL_Power_Query-333333?style=flat" alt="ETL"></a> • 
-<a href="#4-kluczowe-miary-dax"><img src="https://img.shields.io/badge/4._Miary_DAX-333333?style=flat" alt="DAX"></a> • 
-<a href="#5-uiux-design-w-figmie"><img src="https://img.shields.io/badge/5._UI/UX_Figma-333333?style=flat" alt="Figma"></a>
+* [1. Wstęp](#1-wstęp)
+* [2. Dane](#2-dane)
+* [3. Projekt UI/UX (Figma)](#3-projekt-uiux-figma)
+* [4. Analiza i Miary DAX](#4-analiza-i-miary-dax)
+* [5. Interaktywność raportu](#5-interaktywność-raportu)
+* [6. Podgląd dashboardu i plik do pobrania](#6-podgląd-dashboardu-i-plik-do-pobrania)
+* [7. Wnioski biznesowe](#7-wnioski-biznesowe)
 
-</div>
-
-<hr>
-
-
+---
 
 
 
