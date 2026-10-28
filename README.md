@@ -31,7 +31,7 @@ Interaktywny, 3-stronicowy raport Power BI dedykowany analizie sprzedaży, marż
 
 
 <br><br>
-
+---
 ### 📚 Spis treści
 <div id="1-wstęp"></div>
 <details>
