@@ -150,6 +150,8 @@ Przykłady:
 > Total Revenue = SUM('Fact_Sales'[Revenue])
 > ```
 
+</details>
+
 
 
 
