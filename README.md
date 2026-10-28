@@ -150,6 +150,8 @@ Total Revenue = SUM('Fact_Sales'[Revenue])
 **Cel analityczny:** Podstawowy wskaźnik pokazujący całkowitą wartość sprzedaży wygenerowaną w danym okresie. <br>
 Stanowi fundament pod dalsze wyliczenia finansowe (marża, zysk netto, AOV).
 
+---
+
 #### 2. Średnia wartość zamówienia (Global Avg Order Value)
 
 ```dax
@@ -158,6 +160,7 @@ Global Avg Order Value = CALCULATE([Avg Order Value], ALL('Fact_Sales'[Age_Group
 **Cel analityczny:** Obliczenie średniej wartości zamówienia dla całego sklepu  (całkowicie ignorując filtr grupy wiekowej). <br>
 Umożliwienie bezpośredniego porównania średniej wartości koszyka konkretnej grupy wiekowej ze średnią dla całego sklepu
 
+---
 
 #### 3. Średnia marża produktu (Avg Product Margin)
 
@@ -165,8 +168,9 @@ Umożliwienie bezpośredniego porównania średniej wartości koszyka konkretnej
 Avg Product Margin = DIVIDE([Total Profit], [Total Revenue], 0)
 
 ```
-**Cel analityczny:** Kluczowy wskaźnik rentowności pozwalający ocenić, jaka część przychodu ze sprzedaży produktów zostaje w firmie jako zysk
+**Cel analityczny:** Kluczowy wskaźnik rentowności pozwalający ocenić, jaka część przychodu ze sprzedaży produktów zostaje w firmie jako zysk.
 
+---
 
 #### 4. Wskaźnik sprzedaży (Sales Growth Rate)
 
@@ -177,6 +181,8 @@ RETURN
   DIVIDE([Total Revenue] - PoprzedniRok, PoprzedniRok, 0)
 ```
 **Cel analityczny:** Pozwala rzetelnie ocenić dynamikę wzrostu biznesu z uwzględnieniem sezonowości.
+
+---
 
 #### 5. Udział wolumenowy TOP produktów (Top Products Volume Share)
 
