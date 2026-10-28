@@ -45,13 +45,12 @@ Zarząd e-commerce rowerowego potrzebował **spójnego wglądu w realną rentown
 
 <div id="2-dane"></div>
 <details>
-<summary><b> 2. Dane</b> <i></i></summary>
+<summary><b> 2. Dane do raprotu</b> <i></i></summary>
 
 <br>
 
 #### a. Źródło danych
 * **Pochodzenie i format danych:** Publiczny zbiór danych z platformy **Kaggle**, plik *.csv
-* **Zakres:** Dane transakcyjne sprzedaży rowerów i akcesoriów na rynku europejskim.
 
 #### b. Zakres 
 * **Czas:** Dokładna data (dzień, miesiąc, rok)
@@ -65,6 +64,26 @@ Zarząd e-commerce rowerowego potrzebował **spójnego wglądu w realną rentown
 </details>
 
 ---
+
+<div id="3-model danych"></div>
+<details>
+<summary><b> 3. Model danych </b> <i></i></summary>
+
+<br>
+
+Model danych został zorganizowany wokół centralnej tabeli faktów
+
+* **Tabela Faktów (`Fact_Sales`):** Główna tabela transakcyjna zawierająca kluczowe metryki finansowe (koszty, przychody, wolumen) oraz atrybuty klienta i produktu.
+* **Tabela Wymiaru (`Dim_Date`):** Dedykowana tabela kalendarza połączona relacją jednokierunkową **1:* (Jeden do Wiele)** z tabelą faktów, umożliwiająca zaawansowaną analizę czasową (Time Intelligence).
+* **Tabela Miar (`tb_measures`):** Osobna tabela techniczna służąca jako spójny kontener na wszystkie utworzone miary DAX, co ułatwia zarządzanie kodem.
+</details>
+
+---
+
+
+
+
+
 
 
 
