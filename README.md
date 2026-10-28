@@ -49,7 +49,7 @@ Zarząd e-commerce rowerowego potrzebował **spójnego wglądu w realną rentown
 
 <div id="2-dane"></div>
 <details>
-<summary><b> 2. Dane do raprotu</b> <i></i></summary>
+<summary><b> 2. Dane do raportu</b> <i></i></summary>
 
 <br>
 
