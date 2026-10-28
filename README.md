@@ -30,11 +30,11 @@ Interaktywny, 3-stronicowy raport Power BI dedykowany analizie sprzedaży, marż
 
 ### 📚 Spis treści
 
-### 1. Problem biznesowy i cel projektu
+## 1. Problem biznesowy i cele projektu
 
 Zarząd e-commerce rowerowego potrzebował **spójnego wglądu w realną rentowność produktów i klientów**, ponieważ rozproszone dane utrudniały podejmowanie decyzji o marżach i budżetach marketingowych.
 
-**Cele: **
+** Cele: **
 * Zidentyfikowanie, które linie rowerów i akcesoriów faktycznie generują zysk, a które obniżają rentowność biznesu.
 * Śledzenie dynamiki przychodów w czasie oraz wykrywanie sezonowości w branży e-commerce.
 * Określenie profilu najbardziej wartościowego klienta oraz geograficznego rozkładu zamówień.
