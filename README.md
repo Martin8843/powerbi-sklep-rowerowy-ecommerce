@@ -26,6 +26,23 @@ __Podgląd stron raportu (Kliknij, aby rozwinąć stronę)__
 
 <details>
 <summary></b>📄 Analiza Klientów </b></summary>
+
+
+  <div align="center">
+
+### 📊 Wybierz stronę raportu:
+
+<a href="#strona-1">
+  <img src="https://img.shields.io/badge/📄_Strona_1-Przegląd_Sprzedaży-F2C811?style=for-the-badge&logoColor=black" alt="Strona 1">
+</a>
+<a href="#strona-2">
+  <img src="https://img.shields.io/badge/📄_Strona_2-Analiza_Asortymentu-2A75D3?style=for-the-badge&logoColor=white" alt="Strona 2">
+</a>
+<a href="#strona-3">
+  <img src="https://img.shields.io/badge/📄_Strona_3-Analiza_Klientów-107C41?style=for-the-badge&logoColor=white" alt="Strona 3">
+</a>
+
+</div>
 <br>
 
 <p align="center">
