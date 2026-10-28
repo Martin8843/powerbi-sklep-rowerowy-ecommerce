@@ -4,11 +4,11 @@
 
 Interaktywny, 3-stronicowy raport Power BI dedykowany analizie sprzedaży, marżowości oraz klientów dla europejskiego e-commerce w branży rowerowej (Sprzedaż, Produkt, Klient).<br> Projekt stanowi kompletne rozwiązanie BI – od surowych danych, przez modelowanie i zaawansowane miary DAX, aż po autorski layout w programie Figma.
 
-<br><br>
+<br>
 
 <div align="center">
 
-### Wybierz stronę raportu:
+### W celu prezentacji wybierz stronę raportu:
 
 <div align="center">
 
