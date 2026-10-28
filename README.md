@@ -142,13 +142,39 @@ Zanim powstał raport w Power BI, cały interfejs został zaprojektowany od pods
 
 Aby przeanalizować sprzedaż w branży rowerowej, stworzyłem dedykowany zestaw miar DAX (wykorzystujących funkcje takie jak `CALCULATE`, `ALL`, `DIVIDE` czy zmienne `VAR`).
 
-#### Całkowity przychód (Total Revenue)
+#### 1. Całkowity przychód (Total Revenue)
 
 ```dax
 Total Revenue = SUM('Fact_Sales'[Revenue])
 ```
 **Cel:** Podstawowy wskaźnik pokazujący całkowitą wartość sprzedaży wygenerowaną w danym okresie. <br>
 Stanowi fundament pod dalsze wyliczenia finansowe (marża, zysk netto, AOV).
+
+#### 2. Średnia wartość zamówienia (Global Avg Order Value)
+
+```dax
+Global Avg Order Value = CALCULATE([Avg Order Value], ALL('Fact_Sales'[Age_Group]))
+```
+**Cel:** Obliczenie średniej wartości zamówienia dla całego sklepu  (całkowicie ignorując filtr grupy wiekowej). <br>
+Umożliwienie bezpośredniego porównania średniej wartości koszyka konkretnej grupy wiekowej ze średnią dla całego sklepu
+
+
+#### 3. 
+
+```dax
+
+```
+**Cel:** 
+
+
+#### 4. 
+
+```dax
+
+```
+**Cel:** 
+
+
 </details>
 
 
