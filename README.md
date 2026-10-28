@@ -11,13 +11,15 @@
   <img src="https://img.shields.io/badge/📄_Strona_1-Przegląd_Sprzedaży-F2C811?style=for-the-badge&logoColor=black">
 </a>
 <a href="#strona-2">
-  <img src="https://img.shields.io/badge/📄_Strona_2-Analiza_Asortymentu-2A75D3?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/📄_Strona_2-Analiza_Produktów-2A75D3?style=for-the-badge&logoColor=white">
 </a>
 <a href="#strona-3">
   <img src="https://img.shields.io/badge/📄_Strona_3-Analiza_Klientów-107C41?style=for-the-badge&logoColor=white">
 </a>
 
 </div>
+
+
 
 <!-- Sekcja Strony 1 -->
 <div id="strona-1" align="center">
