@@ -222,6 +222,7 @@ RETURN
 
 <br>
 **Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu.**
+
 1. **Od ogółu do szczegółu**
 2. **Dobór wizualizacji do określonej intencji**
 3. **Przejrzysty układ, brak szumu informacyjnego, minimalizm**
