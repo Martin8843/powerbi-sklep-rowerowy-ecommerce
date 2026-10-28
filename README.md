@@ -227,17 +227,17 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu.
 
 #### Wizualiacje (przykłady):
 
-* **Wskaźniki KPI**
+* **Karty KPI**
 <p align="center">
     <img src="/raport_glowny/kpi_sales_overview.png" alt="Sales Overview" width="700">
   </p>
-> #### 💡 Karta KPI: Sales Overview (Kluczowe Metryki)
-> 
-> * 🟩 **Total Sales ($15,1 mln):** Skala biznesu wraz z parametrami jednostkowymi (`Avg Profit: $126`, `Avg Order Value: $215.6`).
-> * 🟨 **Top Revenue Segment:** Wskazanie segmentu dorosłych (*Adults*: $7,8 mln) jako głównego źródła przychodu.
-> * 🟪 **Sales Growth Rate:** Wskaźnik dynamiki rdr na poziomie **92,92%**.
-   
-   Cel analityczny: Szybka ocena skali biznesu oraz rentowności pojedynczej transakcji.
+
+1. Całkowita sprzedaż i wskaźniki jednostkowe (<span style="color: green;">Zielona karta</span>)
+Total Sales (Karta): Główna wartość pokazująca całkowity przychód wygenerowany przez sklep w wybranym okresie.
+Average Profit (wykres wskażnikowy): Średni zysk przypadający na jedno zamówienie.
+Average Order Value: Średnia wartość koszyka zakupowego. 
+
+Cel analityczny: Szybka ocena skali biznesu oraz rentowności pojedynczej transakcji.
 
 </details>
 
