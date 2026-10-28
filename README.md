@@ -239,10 +239,15 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu.
 
 Cel analityczny: Szybka ocena skali biznesu oraz rentowności pojedynczej transakcji.
 
-* **2. Segmenty Przychodowe (`Beżowa karta`)**
+* **2. Segmenty Przychodowe (Beżowa karta`)**
   * **Wykres słupkowy:** Prezentuje rozkład przychodów sklepu rowerowego w podziale na grupy demograficzne klientów:
 
 Cel analityczny: Szybka identyfikacja kluczowej grupy docelowej, która przynosi największe przychody dla biznesu.
+
+* **3. Dynamika sprzedaży (`Fioletowa karta`)**
+  * **Sales Growth Rate: Wyrazista, pojedyncza karta KPI przedstawiająca dynamikę wzrostu przychodów w ujęciu rocznym (YoY).
+    
+Cel analityczny: Błyskawiczna informacja o tempie rozwoju oraz wysokiej skalowalności biznesu rowerowego.
 
 </details>
 
