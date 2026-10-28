@@ -161,7 +161,13 @@ Zanim powstał raport w Power BI, cały interfejs został zaprojektowany od pods
 
 
 
+<br><br><br><br><br><br><br><br>
 <br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
+
 <!-- Sekcja Strony 1 -->
 <div id="strona-1" align="center">
 
