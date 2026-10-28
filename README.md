@@ -19,6 +19,22 @@
 
 </div>
 
+<!-- Sekcja Strony 1 -->
+<div id="strona-1" align="center">
+
+### 🚲 Strona 1: Ogólny Przegląd Sprzedaży
+
+<img src="sales-overview.gif" alt="Strona 1 - Sales Overview" width="100%">
+
+<a href="#">
+  <img src="https://img.shields.io/badge/⬆_Powrót_do_menu-gray?style=flat" alt="Powrót">
+</a>
+
+</div>
+
+<br>
+
+
 Interaktywny, 3-stronicowy raport Power BI dedykowany analizie sprzedaży, marżowości oraz klientów dla europejskiego e-commerce w branży rowerowej (Sprzedaż, Produkt, Klient). 
 
 
