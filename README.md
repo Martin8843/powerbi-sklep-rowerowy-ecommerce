@@ -31,9 +31,8 @@ Interaktywny, 3-stronicowy raport Power BI dedykowany analizie sprzedaży, marż
 ### 📚 Spis treści
 
 #### Kliknij aby rozwinąć
-
 <details>
-<summary><h2>Problem biznesowy i cele projektu </h2></summary>
+<summary><h3>Problem biznesowy i cele projektu </h3></summary>
 <br>
 
 Zarząd e-commerce rowerowego potrzebował **spójnego wglądu w realną rentowność produktów i klientów**, ponieważ rozproszone dane utrudniały podejmowanie decyzji o marżach i budżetach marketingowych.
