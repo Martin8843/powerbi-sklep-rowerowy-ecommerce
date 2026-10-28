@@ -89,7 +89,7 @@ Model danych został zorganizowany wokół centralnej tabeli faktów
 
 <div id="4-projekt-ui-ux-figma"></div>
 <details>
-<summary><b> 4. Zaprojektowanie widoków raportów w Figma  </b> <i></i></summary>
+<summary><b> 4. Projekt widoków w Fimga  </b> <i></i></summary>
 <br>
 
 Zanim powstał raport w Power BI, cały interfejs został zaprojektowany od podstaw w programie **Figma**. <br>Takie podejście pozwoliło na spójne zaplanowanie architektury informacji, hierarchii wizualnej oraz customowych elementów graficznych.
@@ -133,6 +133,16 @@ Zanim powstał raport w Power BI, cały interfejs został zaprojektowany od pods
 </details>
 
 
+</details>
+
+<div id="5-Logika i dax"></div>
+<details>
+<summary><b> 5. Logika biznesowa sklepu i kluczowe miary DAX  </b> <i></i></summary>
+<br>
+
+
+
+</details>
 
 
 
