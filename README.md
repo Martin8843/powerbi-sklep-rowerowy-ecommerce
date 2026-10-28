@@ -45,22 +45,29 @@ Cele:
 
 <br>
 
+<div id="2-dane"></div>
+<details>
+<summary><h4>2. Dane </h4></summary>
 <br>
 
-<!-- Tutaj wklejasz Twój podgląd GIF dla 1. strony 
+### a. Źródło danych
+* **Baza danych:** Relacyjna baza danych e-commerce (np. *AdventureWorks / własne źródło OLTP*).
+* **Format danych:** Pliki `.csv` / tabele SQL zawierające dane transakcyjne, słowniki produktów oraz dane o klientach.
 
+### b. Zakres i struktura danych
+* **Okres czasowy:** Dane obejmują transakcje z lat [np. 2021 – 2024].
+* **Główne obszary danych:**
+  * **Fakty:** Zamówienia i pozycje zamówień (przychód, koszt, wolumen, rabaty).
+  * **Wymiary:** Produkty (kategorie, podkategorie, ceny), Klienci (demografia, lokalizacja), Kalendarz (czas/sezonowość), Geografia.
 
+</details>
 
-
-* [2. Dane](#2-dane)
-* [3. Projekt UI/UX (Figma)](#3-projekt-uiux-figma)
-* [4. Analiza i Miary DAX](#4-analiza-i-miary-dax)
-* [5. Interaktywność raportu](#5-interaktywność-raportu)
-* [6. Podgląd dashboardu i plik do pobrania](#6-podgląd-dashboardu-i-plik-do-pobrania)
-* [7. Wnioski biznesowe](#7-wnioski-biznesowe)
-
+<br>
 
 ---
+
+
+
 
 
 
