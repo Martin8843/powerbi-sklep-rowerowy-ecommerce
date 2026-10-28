@@ -239,6 +239,11 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu.
 
 Cel analityczny: Szybka ocena skali biznesu oraz rentowności pojedynczej transakcji.
 
+* **2. Segmenty Przychodowe (`Beżowa karta`)**
+  * **Wykres słupkowy:** Prezentuje rozkład przychodów sklepu rowerowego w podziale na grupy demograficzne klientów:
+
+Cel analityczny: Szybka identyfikacja kluczowej grupy docelowej, która przynosi największe przychody dla biznesu.
+
 </details>
 
 
