@@ -1,4 +1,4 @@
-## 📊 Dashboard Power BI – Analiza Sprzedaży E-Commerce (Sklep Rowerowy)
+# 📊 Dashboard Power BI – Analiza Sprzedaży E-Commerce (Sklep Rowerowy)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
@@ -292,7 +292,7 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu. 
     * Procentowy udział poszczególnych kategorii produktów w całkowitych wydatkach poszczególnych grup demograficznych. 
     * Paski procentowe i podział na kolory pozwalają w ułamku sekundy zrozumieć nawyki zakupowe bez zagłębiania się w tabele.
   
-<span style="color: #4dabf7; font-weight: bold;">Cel analityczny:</span> Zrozumienie nawyków zakupowych różnych pokoleń w celu optymalizacji ofert.
+Cel analityczny: Zrozumienie nawyków zakupowych różnych pokoleń w celu optymalizacji ofert.
 </details>
 
 <br>
@@ -307,7 +307,7 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu. 
 * Wykres przedstawia całkowity zysk netto wygenerowany przez poszczególne grupy wiekowe klientów.
 * Wyraźne słupki uszeregowane malejąco pozwalają w ułamku sekundy zauważyć, kto napędza rentowność firmy.
   
-<span style="color: #4dabf7; font-weight: bold;">Cel analityczny:</span> Skierowanie działań tam, gdzie zwrot z inwestycji jest najwyższy.
+Cel analityczny: Skierowanie działań tam, gdzie zwrot z inwestycji jest najwyższy.
 </details>
 
 </details>
