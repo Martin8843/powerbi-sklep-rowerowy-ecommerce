@@ -251,7 +251,7 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu.
 * **Dynamika sprzedaży (`Fioletowa karta`)**
   * Sales Growth Rate: Wyrazista, pojedyncza karta KPI przedstawiająca dynamikę wzrostu przychodów w ujęciu rocznym (YoY).
     
- <span style="color: #4dabf7; font-weight: bold;">Cel analityczny: Błyskawiczna informacja o tempie rozwoju oraz wysokiej skalowalności biznesu rowerowego. 
+  Cel analityczny: Błyskawiczna informacja o tempie rozwoju oraz wysokiej skalowalności biznesu rowerowego. 
 
 </details>
 
