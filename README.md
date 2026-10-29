@@ -53,7 +53,7 @@ Zarząd e-commerce rowerowego potrzebuje **spójnego wglądu w realną rentowno�
 
 Pytania główne:
 
-&emsp; **1. Które kategorie produktów stanowią „koło zamachowe” przychodów, a które generują najwyższą marżowość netto?**
+&emsp;**1. Które kategorie produktów stanowią „koło zamachowe” przychodów, a które generują najwyższą marżowość netto?**
 
 &emsp;**2. Kim jest najbardziej wartościowy klient (pod kątem wieku i geolokalizacji?)**
 
@@ -388,8 +388,15 @@ Raport został zaprojektowany z naciskiem na nowoczesny interfejs oraz optymaliz
 
 Projekt został zrealizowany pod kątem konkretnych pytań analitycznych postawionych na starcie. Oto najważniejsze wnioski z raportu:
 
-- **1. Identyfikacja kluczowych driverów sprzedaży:**  
-  Analiza wykazała, że kategoria *Accessories* generuje najwyższą marżowość przy stabilnym wolumenie zamówień, podczas gdy kategoria *Bicycles* odpowiada za największy udział w przychodach całkowitych firmy.
+- **1. Które kategorie produktów stanowią „koło zamachowe” przychodów, a które generują najwyższą marżowość netto?**
+- Odpowiedź:
+Głównym kołem zamachowym przychodów firmy są rowery (Bikes), które generują największą masę zysku i obrotu, podczas gdy akcesoria (Accessories) odpowiadają za masową sprzedaż wolumenową.
+Największą marżowość netto generują wbrane **modele dętek* czy **koszyków na bidon** osiągające ponad 60-70% marży.
+
+<p align="center">
+  <img src="chart_yoy_product_overview.gif" alt="Prezentacja " width="70%">
+</p>
+
 
 
 </details>
