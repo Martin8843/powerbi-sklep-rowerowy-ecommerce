@@ -55,13 +55,13 @@ Pytania główne:
 
 **1. Które kategorie produktów stanowią „koło zamachowe” przychodów, a które generują najwyższą marżowość netto?**
 
-**2. Kim jest najbardziej wartościowy klient (High-Value Customer) pod kątem wieku i geolokalizacji?**
+**2. Kim jest najbardziej wartościowy klient (pod kątem wieku i geolokalizacji?)**
 
 **3. W jakich miesiącach występuje szczyt sprzedażowy i jak duża jest dysproporcja w przychodach między sezonem wysoki a niskim?**
 
 Pytanie szczegółowe: 
 
-**Czy wyższa wolumenowo sprzedaż rowerów przekłada się na wyższy zysk, czy to niskokosztowe akcesoria budują ostateczną rentowność sklepu?**
+**1. Które konkretnie produkty lub linie asortymentowe są absolutnymi bestsellerami generującymi największą wolumenową sprzedaż, a które najmniejszą**
 </details>
 
 <div id="2-dane"></div>
@@ -355,7 +355,7 @@ Raport został zaprojektowany z naciskiem na nowoczesny interfejs oraz optymaliz
 
 <div id="8-wnioski-biznesowe"></div>
 <details>
-<summary><b> 8. Wnioski Biznesowe oraz Odpowiedzi na Cele Projektu</b></summary>
+<summary><b> 8. Wnioski Biznesowe / Odpowiedzi dla Biznesu </b></summary>
 
 <br>
 
@@ -364,14 +364,6 @@ Projekt został zrealizowany pod kątem konkretnych pytań analitycznych postawi
 - **1. Identyfikacja kluczowych driverów sprzedaży:**  
   Analiza wykazała, że kategoria *Accessories* generuje najwyższą marżowość przy stabilnym wolumenie zamówień, podczas gdy kategoria *Bicycles* odpowiada za największy udział w przychodach całkowitych firmy.
 
-- **2. Profil i zachowania klientów (Customer Insights):**  
-  Najbardziej wartościową grupą konsumencką pod względem generowanego zysku netto okazał się segment wiekowy *Adults (35-64)*[cite: 1]. Rekomenduje się ukierunkowanie przyszłych kampanii marketingowych właśnie na tę grupę.
-
-- **3. Sezonowość i optymalizacja operacyjna:**  
-  Wyraźny wzrost wolumenu sprzedaży w okresie wiosenno-letnim wskazuje na konieczność wcześniejszego planowania zatowarowania (stockingu) już pod koniec Q1, aby uniknąć braków magazynowych (*out-of-stock*).
-
-- **4. Odpowiedź na cele początkowe:**  
-  Wdrożony 3-stronicowy układ (*Sales, Product, Customer Overview*) w pełni pozwolił na monitorowanie kluczowych wskaźników efektywności (KPI) w ujęciu geograficznym i czasowym, dając kadrze zarządzającej narzędzie klasy Self-Service do szybkiego podejmowania decyzji.
 
 </details>
 
