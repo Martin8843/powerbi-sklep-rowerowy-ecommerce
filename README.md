@@ -225,7 +225,7 @@ RETURN
 
 <div id="6-prezentacja-wynikow"></div>
 <details>
-<summary><font color="#4dabf7"><b> `6. Data Storytelling & Wizualizacje (Przykłady)`</b></font></summary>
+<summary><font color="#4dabf7"><b> 6. Data Storytelling & Wizualizacje (Przykłady)</b></font></summary>
   
 <br>
 
@@ -235,7 +235,7 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu. 
 
 <!-- PUNKT 1 -->
 <details>
-<summary><b>1. Karty KPI (Widok Sprzedaż)</b></summary>
+<summary><b>Karty KPI (Widok Sprzedaż)</b></summary>
 
 <p align="center">
     <img src="/raport_glowny/kpi_sales_overview.png" alt="Sales Overview" width="700">
@@ -263,7 +263,7 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu. 
 
 <!-- PUNKT 2 -->
 <details>
-<summary><b>2. Wykresy słupkowe (Widok Sprzedaż)</b></summary>
+<summary><b>Wykresy słupkowe (Widok Sprzedaż)</b></summary>
 
 <p align="center">
     <img src="/raport_glowny/revenue_vs_profit_sales_overview.png" alt="Sales Overview" width="700">
@@ -279,7 +279,7 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu. 
 
 <!-- PUNKT 3 -->
 <details>
-<summary><b>3. Wykres kolumnowy grupowany (Widok Produkty)</b></summary>
+<summary><b>Wykres kolumnowy grupowany (Widok Produkty)</b></summary>
 
 <p align="center">
     <img src="/raport_glowny/chart_yoy_product_overview.png" alt="Product Overview" width="700">
@@ -295,7 +295,7 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu. 
 
 <!-- PUNKT 4 -->
 <details>
-<summary><b>4. Wykres słupkowy 100% skumulowany (Widok Klient)</b></summary>
+<summary><b>Wykres słupkowy 100% skumulowany (Widok Klient)</b></summary>
 
 <p align="center">
     <img src="/raport_glowny/basket_structure_customer_overview.png" alt="Customer Overview" width="700">
@@ -311,7 +311,7 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu. 
 
 <!-- PUNKT 5 -->
 <details>
-<summary><b>5. Wykres kolumnowy grupowany (Widok Klient)</b></summary>
+<summary><b>Wykres kolumnowy grupowany (Widok Klient)</b></summary>
 
 <p align="center">
     <img src="/raport_glowny/total_profit_customer_overview.png" alt="Customer Overview" width="700">
