@@ -53,15 +53,15 @@ Zarząd e-commerce rowerowego potrzebuje **spójnego wglądu w realną rentowno�
 
 Pytania główne:
 
-&nbsp;**1. Które kategorie produktów stanowią „koło zamachowe” przychodów, a które generują najwyższą marżowość netto?**
+&emsp; **1. Które kategorie produktów stanowią „koło zamachowe” przychodów, a które generują najwyższą marżowość netto?**
 
-&nbsp;**2. Kim jest najbardziej wartościowy klient (pod kątem wieku i geolokalizacji?)**
+&emsp;**2. Kim jest najbardziej wartościowy klient (pod kątem wieku i geolokalizacji?)**
 
-&nbsp;**3. W jakich miesiącach występuje szczyt sprzedażowy i jak duża jest dysproporcja w przychodach między sezonem wysoki a niskim?**
+&emsp;**3. W jakich miesiącach występuje szczyt sprzedażowy i jak duża jest dysproporcja w przychodach między sezonem wysoki a niskim?**
 
 Pytanie szczegółowe: 
 
-&nbsp;**1. Które konkretnie produkty lub linie asortymentowe są absolutnymi bestsellerami generującymi największą wolumenową sprzedaż, a które najmniejszą?**
+&emsp;**1. Które konkretnie produkty lub linie asortymentowe są absolutnymi bestsellerami generującymi największą wolumenową sprzedaż, a które najmniejszą?**
 </details>
 <div id="2-dane"></div>
 <details>
