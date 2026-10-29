@@ -82,10 +82,6 @@ Pytanie szczegółowe:
 * **Wolumen i przychody:** *Order_Quantity* (sztuki), *Unit_Price*, *Revenue* (przychód).
 * **Koszty i rentowność:** *Unit_Cost*, *Cost*, *Profit* (zysk)
 
-<bR>
-<bR>
-<bR>
-
 </details>
 
 <div id="3-model-danych"></div>
