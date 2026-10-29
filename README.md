@@ -224,8 +224,6 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu. 
 
 <br>
 
-<div style="margin-left: 20px; font-size: 14px;">
-
 <!-- PUNKT 1 -->
 <details>
 <summary><b>1. Karty KPI (Widok Sprzedaż)</b></summary>
@@ -311,10 +309,7 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu. 
 <span style="color: #4dabf7; font-weight: bold;">Cel analityczny:</span> Skierowanie działań tam, gdzie zwrot z inwestycji jest najwyższy.
 </details>
 
-</div>
-
 </details>
-
 
 
 
