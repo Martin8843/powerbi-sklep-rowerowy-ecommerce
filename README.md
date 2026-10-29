@@ -49,14 +49,18 @@ Możesz pobrać gotowy plik i przetestować go samodzielnie:
 
 <br>
 
-Zarząd e-commerce rowerowego potrzebował **spójnego wglądu w realną rentowność produktów i klientów**, ponieważ rozproszone dane utrudniały podejmowanie decyzji o marżach i budżetach marketingowych.
+Zarząd e-commerce rowerowego potrzebuje **spójnego wglądu w realną rentowność produktów i klientów**, ponieważ rozproszone dane utrudniały podejmowanie decyzji o marżach i budżetach marketingowych.
 
 Pytania główne:
+
 **1. Które kategorie produktów stanowią „koło zamachowe” przychodów, a które generują najwyższą marżowość netto?**
+
 **2. Kim jest najbardziej wartościowy klient (High-Value Customer) pod kątem wieku i geolokalizacji?**
+
 **3. W jakich miesiącach występuje szczyt sprzedażowy i jak duża jest dysproporcja w przychodach między sezonem wysoki a niskim?**
 
 Pytanie szczegółowe: 
+
 **Czy wyższa wolumenowo sprzedaż rowerów przekłada się na wyższy zysk, czy to niskokosztowe akcesoria budują ostateczną rentowność sklepu?**
 </details>
 
