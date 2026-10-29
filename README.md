@@ -259,7 +259,7 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu.
   </p>
 
 * **Porównanie roczne: Przychody (Revenue) vs Zysk (Profit) w latach 2014–2016**
-  * ** Dwa wykresy słupkowe obok siebie pokazują twarde zestawienie finansowe przedsiębiorstwa w ujęciu rocznym.
+  * Dwa wykresy słupkowe obok siebie pokazują twarde zestawienie finansowe przedsiębiorstwa w ujęciu rocznym.
     
   Cel analityczny: Weryfikacja czy przychody i zysk idą w parze z realnym zyskiem przedsiębiorstwa (rentownością sprzedaży) oraz pozwalają ocenić stabilność finansową firmy na przestrzeni lat.
   
