@@ -129,11 +129,10 @@ Zanim powstał raport w Power BI, cały interfejs został zaprojektowany od pods
 </table>
 
 <br>
+<details>
 
 </details>
 
-
-</details>
 
 <div id="5-Logika i dax"></div>
 <details>
