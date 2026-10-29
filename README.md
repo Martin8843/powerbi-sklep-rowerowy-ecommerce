@@ -206,6 +206,103 @@ RETURN
 ```
 **Cel analityczny:** Pozwala zweryfikować zasadę Pareto (czy kluczowy zysk idzie w parze z wolumenem) oraz ocenić, jak duże jest uzależnienie sprzedaży od topowego asortymentu w sklepie rowerowym.
 
+<div id="6-prezentacja-wynikow"></div>
+<details>
+<summary><b> 6. Data Storytelling & Wizualizacje (Przykłady)</b></summary>
+
+<br>
+
+Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu. Kliknij poniżej, aby rozwinąć poszczególne widoki:
+
+<br>
+
+<!-- PUNKT 1 -->
+<details>
+<summary><b>1. Karty KPI (Widok Sprzedaż)</b></summary>
+<p align="center">
+    <img src="/raport_glowny/kpi_sales_overview.png" alt="Sales Overview" width="700">
+  </p>
+
+- **Całkowita sprzedaż i wskaźniki jednostkowe** (`Zielona karta`)
+  * **Total Sales:** Główna wartość pokazująca całkowity przychód wygenerowany przez sklep w wybranym okresie.
+  * **Average Profit (Gauge):** Średni zysk przypadający na jedno zamówienie.
+  * **Average Order Value (Gauge):** Średnia wartość koszyka zakupowego.
+
+  <span style="color: #4dabf7; font-weight: bold;">Cel analityczny:</span> Szybka ocena skali biznesu oraz rentowności pojedynczej transakcji.
+
+- **Segmenty Przychodowe (`Beżowa karta`)**
+  * **Wykres słupkowy:** Prezentuje rozkład przychodów sklepu rowerowego w podziale na grupy demograficzne klientów.
+
+  <span style="color: #4dabf7; font-weight: bold;">Cel analityczny:</span> Szybka identyfikacja kluczowej grupy docelowej, która przynosi największe przychody dla biznesu.
+
+- **Dynamika sprzedaży (`Fioletowa karta`)**
+  * Sales Growth Rate: Wyrazista, pojedyncza karta KPI przedstawiająca dynamikę wzrostu przychodów w ujęciu rocznym (YoY).
+    
+  <span style="color: #4dabf7; font-weight: bold;">Cel analityczny:</span> Błyskawiczna informacja o tempie rozwoju oraz wysokiej skalowalności biznesu rowerowego. 
+</details>
+
+<br>
+
+<!-- PUNKT 2 -->
+<details>
+<summary><b>2. Wykresy słupkowe (Widok Sprzedaż)</b></summary>
+<p align="center">
+    <img src="/raport_glowny/revenue_vs_profit_sales_overview.png" alt="Sales Overview" width="700">
+  </p>
+
+- **Porównanie roczne:** Przychody (Revenue) vs Zysk (Profit) w latach 2014–2016
+- Dwa wykresy słupkowe obok siebie pokazują twarde zestawienie finansowe przedsiębiorstwa w ujęciu rocznym.
+    
+<span style="color: #4dabf7; font-weight: bold;">Cel analityczny:</span> Weryfikacja czy przychody i zysk idą w parze z realnym zyskiem przedsiębiorstwa (rentownością sprzedaży) oraz pozwalają ocenić stabilność finansową firmy na przestrzeni lat.
+</details>
+
+<br>
+
+<!-- PUNKT 3 -->
+<details>
+<summary><b>3. Wykres kolumnowy grupowany (Widok Produkty)</b></summary>
+<p align="center">
+    <img src="/raport_glowny/chart_yoy_product_overview.png" alt="Product Overview" width="700">
+  </p>
+
+- Wykres przedstawia rentowność poszczególnych kategorii produktów w czasie.
+- Jedna wizualizacja pokazuje dwa wymiary, bez zbędnego szumu prowadzi odbiorcę do konkretnych wniosków biznesowych.
+  
+<span style="color: #4dabf7; font-weight: bold;">Cel analityczny:</span> Identyfikacja najbardziej dochodowych produktów oraz śledzenie dynamiki ich rentowności na przestrzeni lat.
+</details>
+
+<br>
+
+<!-- PUNKT 4 -->
+<details>
+<summary><b>4. Wykres słupkowy 100% skumulowany (Widok Klient)</b></summary>
+<p align="center">
+    <img src="/raport_glowny/basket_structure_customer_overview.png" alt="Customer Overview" width="700">
+  </p>
+  
+- Procentowy udział poszczególnych kategorii produktów w całkowitych wydatkach poszczególnych grup demograficznych.
+- Paski procentowe i podział na kolory pozwalają w ułamku sekundy zrozumieć nawyki zakupowe bez zagłębiania się w tabele.
+
+<span style="color: #4dabf7; font-weight: bold;">Cel analityczny:</span> Zrozumienie nawyków zakupowych różnych pokoleń w celu optymalizacji ofert.
+</details>
+
+<br>
+
+<!-- PUNKT 5 -->
+<details>
+<summary><b>5. Wykres kolumnowy grupowany (Widok Klient)</b></summary>
+<p align="center">
+    <img src="/raport_glowny/total_profit_customer_overview.png" alt="Customer Overview" width="700">
+  </p>
+  
+- Wykres przedstawia całkowity zysk netto wygenerowany przez poszczególne grupy wiekowe klientów.
+- Wyraźne słupki uszeregowane malejąco pozwalają w ułamku sekundy zauważyć, kto napędza rentowność firmy.
+  
+<span style="color: #4dabf7; font-weight: bold;">Cel analityczny:</span> Skierowanie działań tam, gdzie zwrot z inwestycji jest najwyższy.
+</details>
+
+</details>
+
 
 
 
