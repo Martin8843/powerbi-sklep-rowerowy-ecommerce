@@ -295,6 +295,8 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu. 
 
 Cel analityczny: Zrozumienie nawyków zakupowych różnych pokoleń w celu optymalizacji ofert.
 
+<details>
+
 <br>
 
 <!-- PUNKT 5 -->
