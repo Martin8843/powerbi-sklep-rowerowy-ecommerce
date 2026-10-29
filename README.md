@@ -216,16 +216,20 @@ RETURN
 
 </details>
 
-<div id="6-prezentacja wynikow"></div>
+<div id="6-prezentacja-wynikow"></div>
 <details>
-<summary><b> 6. Data Storytelling & Wizualizacje </b> <i></i></summary>
+<summary><b> 6. Data Storytelling & Wizualizacje </b></summary>
+
+<br>
 
 <div style="font-size: 14px;">
- Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu.
 
- 1. Od ogółu do szczegółu
- 2. Dobór wizualizacji do określonej intencji
- 3. Przejrzysty układ, brak szumu informacyjnego, minimalizm
+Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu:
+
+1. Od ogółu do szczegółu
+2. Dobór wizualizacji do określonej intencji
+3. Przejrzysty układ, brak szumu informacyjnego, minimalizm
+
 </div>
 
 ---
