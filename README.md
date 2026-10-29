@@ -225,8 +225,8 @@ RETURN
 
 <div id="6-prezentacja-wynikow"></div>
 <details>
-<summary><b> 6. Data Storytelling & Wizualizacje (Przykłady)</b></summary>
-
+<summary><b style="color: #4dabf7;"> 6. Data Storytelling & Wizualizacje (Przykłady)</b></summary>
+  
 <br>
 
 Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu. Kliknij poniżej, aby rozwinąć poszczególne widoki:
