@@ -4,6 +4,15 @@
 
 Interaktywny, 3-stronicowy raport Power BI dedykowany analizie sprzedaży, marżowości oraz klientów dla europejskiego e-commerce w branży rowerowej (Sprzedaż, Produkt, Klient).<br> Projekt stanowi kompletne rozwiązanie BI – od surowych danych, przez modelowanie i zaawansowane miary DAX, aż po autorski layout w programie Figma.
 
+<p align="center">
+  <a href="raport_glowny/Sprzedaz_SklepRowerowy_Raport_v1.pbix">
+    <img src="https://img.shields.io/badge/📥_Pobierz_plik_projektu.pbix-Pobierz_Raport_Power_BI-2ea44f?style=for-the-badge&logo=powerbi&logoColor=white" alt="Pobierz PBIX">
+  </a>
+  <a href="#3-model-danych">
+    <img src="https://img.shields.io/badge/🔍_Przejdź_do_Modelu-Sprawdź_Architekturę-0366d6?style=for-the-badge" alt="Model danych">
+  </a>
+</p>
+
 <br>
 
 <div align="center">
