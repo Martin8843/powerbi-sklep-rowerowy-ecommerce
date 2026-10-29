@@ -322,7 +322,7 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu. 
 
 <div id="7-interaktywnosc-raportu"></div>
 <details>
-<summary><b> 7. Interaktywność i UI/UX (Rozbudowany Panel Filtrów i Nawigacja)</b></summary>
+<summary><b> 7. Doświadczenia użytkowania (Rozbudowany Panel Filtrów i Nawigacja)</b></summary>
 
 <br>
 
