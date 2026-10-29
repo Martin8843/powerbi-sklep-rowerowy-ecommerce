@@ -2,7 +2,7 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-Witaj! Projekt to 3-stronicowy raport Power BI dla europejskiego e-commerce rowerowego. <br> Łączy  model danych i miary DAX z autorskim layoutem z Figmy oraz płynną, przyciskami jak w aplikacjach Web (chowane panele filtrów i dedykowana nawigacja).
+Witaj! Projekt to 3-stronicowy raport Power BI dla europejskiego e-commerce rowerowego. <br> Łączy  model danych i miary DAX z autorskim layoutem z Figmy oraz płynną interakcję przyciskami (chowane panele filtrów i dedykowana nawigacja).
 
 Możesz pobrać gotowy plik i przetestować go samodzielnie:
 
@@ -57,7 +57,7 @@ Pytania główne:
 
 &emsp;**2. Kim jest najbardziej wartościowy klient (pod kątem wieku i geolokalizacji?)**
 
-&emsp;**3. W jakich miesiącach występuje szczyt sprzedażowy i jak duża jest dysproporcja w przychodach między sezonem wysoki a niskim?**
+&emsp;**3. W jakich miesiącach występuje szczyt sprzedażowy i jak duża jest dysproporcja w przychodach między sezonem cieplym a zimwa?**
 
 Pytanie szczegółowe: 
 
@@ -430,6 +430,43 @@ Analiza geograficzna wskazuje kluczowe rynki zbytu, takie jak **Stany Zjednoczon
   </tr>
 </table>
 </details>
+
+
+
+<details>
+<summary><b>&emsp; 3. W jakich miesiącach występuje szczyt sprzedażowy i jak duża jest dysproporcja w przychodach między sezonem cieplym a zimwa?</b></summary>
+
+<br>
+
+
+
+
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" style="border: none; padding: 30px;">
+      <img src="raport_glowny/top_revenue_segment.png" alt="Prezentacja YoY Product Overview" width="90%">
+    </td>
+    <td align="center" style="border: none; padding: 10px;">
+      <img src="raport_glowny/usa_adults.png" alt="Prezentacja High Margin" width="90%">
+    </td>
+  </tr>
+</table>
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
