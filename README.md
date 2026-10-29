@@ -2,11 +2,16 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-Interaktywny, 3-stronicowy raport Power BI dedykowany analizie sprzedaży, marżowości oraz klientów dla europejskiego e-commerce w branży rowerowej (Sprzedaż, Produkt, Klient).<br> Projekt stanowi kompletne rozwiązanie BI – od surowych danych, przez modelowanie i zaawansowane miary DAX, aż po autorski layout w programie Figma.
+Tytuł: Interaktywny, 3-stronicowy raport Power BI dedykowany analizie sprzedaży, marżowości oraz klientów dla europejskiego e-commerce w branży rowerowej (Sprzedaż, Produkt, Klient).<br> Projekt stanowi kompletne rozwiązanie BI – od surowych danych, przez modelowanie i zaawansowane miary DAX, aż po autorski layout w programie Figma.
+
+Witaj! Dziękuję, że odwiedziłeś moje repozytorium. Poniżej znajdziesz kompleksową prezentację projektu analitycznego Power BI. 
+
+Jeśli chcesz przetestować raport bezpośrednio na swoim komputerze, możesz pobrać gotowy plik projektu:
 
 <p align="left">
   <a href="raport_glowny/Sprzedaz_SklepRowerowy_Raport_v1.pbix">
-    <img src="https://img.shields.io/badge/📥_Pobierz_plik_projektu.pbix-Pobierz_Raport_Power_BI-2ea44f?style=for-the-badge&logo=powerbi&logoColor=white" alt="Pobierz PBIX">
+    <img src="https://img.shields.io/badge/📥_Pobierz_PBIX-2ea44f?style=flat&logo=powerbi&logoColor=white" alt="Pobierz PBIX">
+  </a>
 </p>
 
 <br>
