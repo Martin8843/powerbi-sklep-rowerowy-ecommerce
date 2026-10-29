@@ -63,6 +63,8 @@ Pytanie szczegółowe:
 
 **1. Które konkretnie produkty lub linie asortymentowe są absolutnymi bestsellerami generującymi największą wolumenową sprzedaż, a które najmniejszą**
 </details>
+<bR><bR>
+<bR>
 
 <div id="2-dane"></div>
 <details>
