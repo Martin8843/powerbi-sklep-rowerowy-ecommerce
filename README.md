@@ -268,8 +268,8 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu.
     <img src="/raport_glowny/chart_yoy_product_overview.png" alt="Product Overview" width="700">
   </p>
 
-* * Wykres przedstawia zestawienie zysków generowanych przez poszczególne kategorie produktów
-* * Jedna wizualizacja pokazuje dwa wymiary, bez zbędnego szumu prowadzi odbiorcę do konkretnych wniosków biznesowych.
+  * Wykres przedstawia zestawienie zysków generowanych przez poszczególne kategorie produktów
+  * Jedna wizualizacja pokazuje dwa wymiary, bez zbędnego szumu prowadzi odbiorcę do konkretnych wniosków biznesowych.
   
   Cel analityczny: Identyfikacja najbardziej dochodowych produktów oraz śledzenie dynamiki ich rentowości na przestrzeni lat.
   
