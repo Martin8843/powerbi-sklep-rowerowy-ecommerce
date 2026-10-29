@@ -206,8 +206,10 @@ RETURN
 ```
 **Cel analityczny:** Pozwala zweryfikować zasadę Pareto (czy kluczowy zysk idzie w parze z wolumenem) oraz ocenić, jak duże jest uzależnienie sprzedaży od topowego asortymentu w sklepie rowerowym.
 
-<div id="6-prezentacja-wynikow"></div>
 </details>
+
+<div id="6-prezentacja-wynikow"></div>
+<details>
 <summary><b> 6. Data Storytelling & Wizualizacje (Przykłady)</b></summary>
 
 <br>
