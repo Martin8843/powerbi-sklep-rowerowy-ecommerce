@@ -421,7 +421,7 @@ Analiza geograficzna wskazuje kluczowe rynki zbytu, takie jak **Stany Zjednoczon
 
 <table align="center" style="border: none;">
   <tr>
-    <td align="center" style="border: none; padding: 10px;">
+    <td align="center" style="border: none; padding: 30px;">
       <img src="raport_glowny/top_revenue_segment.png" alt="Prezentacja YoY Product Overview" width="90%">
     </td>
     <td align="center" style="border: none; padding: 10px;">
