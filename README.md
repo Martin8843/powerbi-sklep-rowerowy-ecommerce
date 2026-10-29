@@ -393,11 +393,16 @@ Odpowiedź:
 Głównym kołem zamachowym przychodów firmy są rowery (Bikes), które generują największą masę zysku i obrotu, podczas gdy akcesoria (Accessories) odpowiadają za masową sprzedaż wolumenową.
 Największą marżowość netto generują wbrane **modele dętek* czy **koszyków na bidon** osiągające ponad 60-70% marży.
 
-<p align="center">
-  <img src="/raport_glowny/chart_yoy_product_overview.png" alt="Prezentacja " width="70%">
-</p>
-
-
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" style="border: none; padding: 10px;">
+      <img src="raport_glowny/chart_yoy_product_overview.png" alt="Prezentacja YoY Product Overview" width="70%">
+    </td>
+    <td align="center" style="border: none; padding: 10px;">
+      <img src="raport_glowny/high_margin.png" alt="Prezentacja High Margin" width="70%">
+    </td>
+  </tr>
+</table>
 
 </details>
 
