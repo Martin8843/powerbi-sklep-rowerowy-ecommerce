@@ -270,6 +270,7 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu.
 
 * ** Wykres przedstawia zestawienie zysków generowanych przez poszczególne kategorie produktów
 * ** Jedna wizualizacja pokazuje dwa wymiary, bez zbędnego szumu prowadzi odbiorcę do konkretnych wniosków biznesowych.
+  
   Cel analityczny: Identyfikacja najbardziej dochodowych produktów oraz śledzenie dynamiki ich rentowości na przestrzeni lat.
   
 
