@@ -225,7 +225,7 @@ RETURN
 
 <div id="6-prezentacja-wynikow"></div>
 <details>
-<summary><font color="#4dabf7"><b> 6. Data Storytelling & Wizualizacje (Przykłady)</b></font></summary>
+<summary><font color="#4dabf7"><b> `6. Data Storytelling & Wizualizacje (Przykłady)`</b></font></summary>
   
 <br>
 
