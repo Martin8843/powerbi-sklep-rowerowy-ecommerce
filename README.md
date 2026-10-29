@@ -390,7 +390,7 @@ Projekt został zrealizowany pod kątem konkretnych pytań analitycznych postawi
 
 
 <details>
-<summary><b>1. &emsp;Które kategorie produktów stanowią „koło zamachowe” przychodów, a które generują najwyższą marżowość netto?</b></summary>
+<summary><b>&emsp; 1. Które kategorie produktów stanowią „koło zamachowe” przychodów, a które generują najwyższą marżowość netto?</b></summary>
 
 <br>
 
