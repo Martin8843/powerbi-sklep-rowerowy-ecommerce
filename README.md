@@ -222,7 +222,7 @@ RETURN
 
 <br>
 
-<div style="font-size: 12px;">
+<div style="font-size: 10px;">
 
 Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu:
 
