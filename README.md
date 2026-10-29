@@ -219,9 +219,10 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu. 
 <!-- PUNKT 1 -->
 <details>
 <summary><b>1. Karty KPI (Widok Sprzedaż)</b></summary>
+
 <p align="center">
     <img src="/raport_glowny/kpi_sales_overview.png" alt="Sales Overview" width="700">
-  </p>
+</p>
 
 - **Całkowita sprzedaż i wskaźniki jednostkowe** (`Zielona karta`)
   * **Total Sales:** Główna wartość pokazująca całkowity przychód wygenerowany przez sklep w wybranym okresie.
@@ -246,9 +247,10 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu. 
 <!-- PUNKT 2 -->
 <details>
 <summary><b>2. Wykresy słupkowe (Widok Sprzedaż)</b></summary>
+
 <p align="center">
     <img src="/raport_glowny/revenue_vs_profit_sales_overview.png" alt="Sales Overview" width="700">
-  </p>
+</p>
 
 - **Porównanie roczne:** Przychody (Revenue) vs Zysk (Profit) w latach 2014–2016
 - Dwa wykresy słupkowe obok siebie pokazują twarde zestawienie finansowe przedsiębiorstwa w ujęciu rocznym.
@@ -261,9 +263,10 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu. 
 <!-- PUNKT 3 -->
 <details>
 <summary><b>3. Wykres kolumnowy grupowany (Widok Produkty)</b></summary>
+
 <p align="center">
     <img src="/raport_glowny/chart_yoy_product_overview.png" alt="Product Overview" width="700">
-  </p>
+</p>
 
 - Wykres przedstawia rentowność poszczególnych kategorii produktów w czasie.
 - Jedna wizualizacja pokazuje dwa wymiary, bez zbędnego szumu prowadzi odbiorcę do konkretnych wniosków biznesowych.
@@ -276,9 +279,10 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu. 
 <!-- PUNKT 4 -->
 <details>
 <summary><b>4. Wykres słupkowy 100% skumulowany (Widok Klient)</b></summary>
+
 <p align="center">
     <img src="/raport_glowny/basket_structure_customer_overview.png" alt="Customer Overview" width="700">
-  </p>
+</p>
   
 - Procentowy udział poszczególnych kategorii produktów w całkowitych wydatkach poszczególnych grup demograficznych.
 - Paski procentowe i podział na kolory pozwalają w ułamku sekundy zrozumieć nawyki zakupowe bez zagłębiania się w tabele.
@@ -291,9 +295,10 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu. 
 <!-- PUNKT 5 -->
 <details>
 <summary><b>5. Wykres kolumnowy grupowany (Widok Klient)</b></summary>
+
 <p align="center">
     <img src="/raport_glowny/total_profit_customer_overview.png" alt="Customer Overview" width="700">
-  </p>
+</p>
   
 - Wykres przedstawia całkowity zysk netto wygenerowany przez poszczególne grupy wiekowe klientów.
 - Wyraźne słupki uszeregowane malejąco pozwalają w ułamku sekundy zauważyć, kto napędza rentowność firmy.
@@ -302,7 +307,6 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu. 
 </details>
 
 </details>
-
 
 
 
