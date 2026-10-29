@@ -393,7 +393,7 @@ Projekt został zrealizowany pod kątem konkretnych pytań analitycznych postawi
 
 <details>
 
-Odpowiedź: <br>
+Odpowiedź:
 
 Głównym kołem zamachowym przychodów firmy są rowery (Bikes), które generują największą masę zysku i obrotu, podczas gdy akcesoria (Accessories) odpowiadają za masową sprzedaż wolumenową. <br>
 Największą marżowość netto generują wbrane **modele dętek** czy **koszyków na bidon** osiągające ponad 60-70% marży.
