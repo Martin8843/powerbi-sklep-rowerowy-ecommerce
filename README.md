@@ -387,14 +387,14 @@ Raport został zaprojektowany z naciskiem na nowoczesny interfejs oraz optymaliz
 <br>
 
 Projekt został zrealizowany pod kątem konkretnych pytań analitycznych postawionych na starcie. Oto najważniejsze wnioski z raportu:
-
-- **1. Które kategorie produktów stanowią „koło zamachowe” przychodów, a które generują najwyższą marżowość netto?**
-- Odpowiedź:
+**1. Które kategorie produktów stanowią „koło zamachowe” przychodów, a które generują najwyższą marżowość netto?**
+  
+Odpowiedź:
 Głównym kołem zamachowym przychodów firmy są rowery (Bikes), które generują największą masę zysku i obrotu, podczas gdy akcesoria (Accessories) odpowiadają za masową sprzedaż wolumenową.
 Największą marżowość netto generują wbrane **modele dętek* czy **koszyków na bidon** osiągające ponad 60-70% marży.
 
 <p align="center">
-  <img src="chart_yoy_product_overview.gif" alt="Prezentacja " width="70%">
+  <img src="chart_yoy_product_overview.png" alt="Prezentacja " width="70%">
 </p>
 
 
