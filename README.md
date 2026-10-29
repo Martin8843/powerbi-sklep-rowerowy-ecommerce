@@ -253,7 +253,7 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu.
     
   Cel analityczny: Błyskawiczna informacja o tempie rozwoju oraz wysokiej skalowalności biznesu rowerowego. 
 
-* **2. Wykresy słupkowe Revenue vs Profit**
+* **2. Wykresy słupkowe (Przychód vs Zysk)**
 <p align="center">
     <img src="/raport_glowny/revenue_vs_profit_sales_overview.png" alt="Sales Overview" width="700">
   </p>
@@ -263,7 +263,7 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu.
     
   Cel analityczny: Weryfikacja czy przychody i zysk idą w parze z realnym zyskiem przedsiębiorstwa (rentownością sprzedaży) oraz pozwalają ocenić stabilność finansową firmy na przestrzeni lat.
   
-* **3. Wykres kolumnowy grupowany (Rentowość produktów w czasie)**
+* **3. Wykres kolumnowy grupowany (Rentowność produktów w czasie)**
 <p align="center">
     <img src="/raport_glowny/chart_yoy_product_overview.png" alt="Product Overview" width="700">
   </p>
@@ -275,25 +275,25 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu.
   
 
   
-* **4. Wykres słupkowy 100 % skumulowany (struktura koszyka według grup wiekowych) **
+* **4. Wykres słupkowy 100% skumulowany (Struktura koszyka według grup wiekowych)**
 <p align="center">
     <img src="/raport_glowny/basket_structure_customer_overview.png" alt="Product Overview" width="700">
   </p>
-  * Procentowy udział poszczególnych kategorii produktów w całkowitych wydatkach poszczególnych grup demograficznych. 
-  * Paski procentowe i podział na kolory pozwalają  w ułamku sekundy zrozumieć nawyki zakupowe bez zagłębiania się w tabele.
+    * Procentowy udział poszczególnych kategorii produktów w całkowitych wydatkach poszczególnych grup demograficznych. 
+    * Paski procentowe i podział na kolory pozwalają  w ułamku sekundy zrozumieć nawyki zakupowe bez zagłębiania się w tabele.
   
   Cel analityczny: Zrozumienie nawyków zakupowych różnych pokoleń w celu optymalizacji ofert.
   
 
-* **4. **
+* **5. Wykres kolumnowy grupowany**
 <p align="center">
-    <img src="/raport_glowny/chart_yoy_product_overview.png" alt="Product Overview" width="700">
+    <img src="/raport_glowny/total_profit_customer_overview.png" alt="Product Overview" width="700">
   </p>
-*
-  * Wykres przedstawia zestawienie zysków generowanych przez poszczególne kategorie produktów
-
   
-  Cel analityczny: 
+  * Wykres przedstawia całkowity zysk netto wygenerowany przez poszczególne grupy wiekowe klientów.
+  * Wyraźne słupki uszeregowane malejąco pozwalają  w ułamku sekundy zauważyć, kto napędza rentowność firmy.
+  
+  Cel analityczny: Skierowanie działań tam, gdzie zwrot z inwestycji jest najwyższy.
 
 </details>
 
