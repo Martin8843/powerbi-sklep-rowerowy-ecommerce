@@ -61,8 +61,7 @@ Pytania główne:
 
 Pytanie szczegółowe: 
 
-**1. Które konkretnie produkty lub linie asortymentowe są absolutnymi bestsellerami generującymi największą wolumenową sprzedaż, a które najmniejszą**
-</details>
+**1. Które konkretnie produkty lub linie asortymentowe są absolutnymi bestsellerami generującymi największą wolumenową sprzedaż, a które najmniejszą?**
 
 <div id="2-dane"></div>
 <details>
@@ -82,13 +81,12 @@ Pytanie szczegółowe:
 #### c. Miary finansowe
 * **Wolumen i przychody:** *Order_Quantity* (sztuki), *Unit_Price*, *Revenue* (przychód).
 * **Koszty i rentowność:** *Unit_Cost*, *Cost*, *Profit* (zysk)
+
+<bR>
+<bR>
+<bR>
+
 </details>
-
-<bR>
-<bR>
-<bR>
-<bR>
-
 
 <div id="3-model-danych"></div>
 <details>
