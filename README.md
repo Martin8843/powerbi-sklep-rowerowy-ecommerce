@@ -389,10 +389,8 @@ Raport został zaprojektowany z naciskiem na nowoczesny interfejs oraz optymaliz
 Projekt został zrealizowany pod kątem konkretnych pytań analitycznych postawionych na starcie. Oto najważniejsze wnioski z raportu:
 
 
-**1. Które kategorie produktów stanowią „koło zamachowe” przychodów, a które generują najwyższą marżowość netto?**
-
 <details>
-<summary><b>Kliknij, aby zobaczyć odpowiedź i dowody wizualne</b></summary>
+<summary><b>1. Które kategorie produktów stanowią „koło zamachowe” przychodów, a które generują najwyższą marżowość netto?</b></summary>
 
 <br>
 
@@ -411,10 +409,6 @@ Największą marżowość netto generują wybrane **modele dętek** czy **koszyk
 </table>
 
 </details>
-
-
-
-
 
 
 
