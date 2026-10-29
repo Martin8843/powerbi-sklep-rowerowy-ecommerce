@@ -128,6 +128,83 @@ Zanim powstał raport w Power BI, cały interfejs został zaprojektowany od pods
 
 </details>
 
+<div id="5-Logika i dax"></div>
+<details>
+<summary><b> 5. Logika biznesowa sklepu i kluczowe miary DAX  </b> <i></i></summary>
+<br>
+
+Aby przeanalizować sprzedaż w branży rowerowej, stworzyłem dedykowany zestaw miar DAX (wykorzystujących funkcje takie jak `CALCULATE`, `ALL`, `DIVIDE` czy zmienne `VAR`).
+
+#### 1. Całkowity przychód [$] (Total Revenue)
+
+```dax
+Total Revenue = SUM('Fact_Sales'[Revenue])
+```
+**Cel analityczny:** Podstawowy wskaźnik pokazujący całkowitą wartość sprzedaży wygenerowaną w danym okresie. <br>
+Stanowi fundament pod dalsze wyliczenia finansowe (marża, zysk netto, AOV).
+
+---
+
+#### 2. Średnia wartość zamówienia [$] (Global Avg Order Value)
+
+```dax
+Global Avg Order Value = CALCULATE([Avg Order Value], ALL('Fact_Sales'[Age_Group]))
+```
+**Cel analityczny:** Obliczenie średniej wartości zamówienia dla całego sklepu  (całkowicie ignorując filtr grupy wiekowej). <br>
+Umożliwienie bezpośredniego porównania średniej wartości koszyka konkretnej grupy wiekowej ze średnią dla całego sklepu
+
+---
+
+#### 3. Średnia marża produktu [$] (Avg Product Margin)
+
+```dax
+Avg Product Margin = DIVIDE([Total Profit], [Total Revenue], 0)
+
+```
+**Cel analityczny:** Kluczowy wskaźnik rentowności pozwalający ocenić, jaka część przychodu ze sprzedaży produktów zostaje w firmie jako zysk.
+
+---
+
+#### 4. Wskaźnik sprzedaży [%] (Sales Growth Rate)
+
+```dax
+Sales Growth Rate = 
+VAR PoprzedniRok = CALCULATE([Total Revenue], SAMEPERIODLASTYEAR('Dim_Date'[Date]))
+RETURN
+  DIVIDE([Total Revenue] - PoprzedniRok, PoprzedniRok, 0)
+```
+**Cel analityczny:** Pozwala rzetelnie ocenić dynamikę wzrostu biznesu z uwzględnieniem sezonowości.
+
+---
+
+#### 5. Udział wolumenowy TOP produktów [%] (Top Products Volume Share)
+
+```dax
+Top Products Volume Share = 
+VAR NumOfTopProducts = 10  -- Liczba produktów w tabeli w widoku raportu
+-- 1. Sprzedane sztuki dla Top 10 produktów
+VAR TopProductsUnits = 
+    CALCULATE(
+        SUM('Fact_Sales'[Order_Quantity]), 
+        TOPN(
+            NumOfTopProducts,
+            ALL('Fact_Sales'[Product]),
+            [Total Profit], --  ranking po ZYSKU
+            DESC
+        )
+    )
+
+-- 2. Całkowita liczba sprzedanych sztuk w całej firmie
+VAR TotalCompanyUnits = 
+    CALCULATE(
+        SUM('Fact_Sales'[Order_Quantity]),
+        ALL('Fact_Sales')
+    )
+
+RETURN
+    DIVIDE(TopProductsUnits, TotalCompanyUnits, 0)
+```
+**Cel analityczny:** Pozwala zweryfikować zasadę Pareto (czy kluczowy zysk idzie w parze z wolumenem) oraz ocenić, jak duże jest uzależnienie sprzedaży od topowego asortymentu w sklepie rowerowym.
 
 
 
