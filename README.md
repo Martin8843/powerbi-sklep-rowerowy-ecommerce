@@ -332,16 +332,16 @@ Raport został zaprojektowany z naciskiem na nowoczesny interfejs oraz optymaliz
   Zamiast zagracać przestrzeń statycznymi filtrami, utworzyłem dynamiczny panel wysuwany za pomocą ikony suwaków. Wykorzystując *Zakładki (Bookmarks)* oraz panel *Wybór (Selection)*, użytkownik może w każdej chwili włączyć lub ukryć filtry (`filters on / off`)
 
 <p align="center">
-  <img src="hidden_filters.gif" alt="Prezentacja " width="80%">
+  <img src="hidden_filters.gif" alt="Prezentacja " width="90%">
 </p>
 
 <br>
 
-- ** Panel Nawigacyjny:**  
+- **Panel Nawigacyjny:**  
   Po lewej stronie zaimplementowałem spójny, estetyczny panel boczny z przyciskami, który umożliwia szybkie i płynne przełączanie się pomiędzy głównymi widokami raportu, zapewniając doświadczenia zbliżone do nowoczesnych aplikacji.
 
 <p align="center">
-  <img src="nawigation_pages.gif" alt="Prezentacja " width="80%">
+  <img src="nawigation_pages.gif" alt="Prezentacja " width="90%">
 </p>
 
 </details>
