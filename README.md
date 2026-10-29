@@ -231,7 +231,7 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu.
 
 #### Wizualiacje (przykłady):
 
-* **1. Karty KPI**
+* **1. Karty KPI (Widok Sprzedaż)**
 <p align="center">
     <img src="/raport_glowny/kpi_sales_overview.png" alt="Sales Overview" width="700">
   </p>
@@ -253,31 +253,31 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu.
     
   Cel analityczny: Błyskawiczna informacja o tempie rozwoju oraz wysokiej skalowalności biznesu rowerowego. 
 
-* **2. Wykresy słupkowe (Przychód vs Zysk)**
+* **2. Wykresy słupkowe (Widok Sprzedaż)**
 <p align="center">
     <img src="/raport_glowny/revenue_vs_profit_sales_overview.png" alt="Sales Overview" width="700">
   </p>
 
-* **Porównanie roczne: Przychody (Revenue) vs Zysk (Profit) w latach 2014–2016**
+  * Porównanie roczne: Przychody (Revenue) vs Zysk (Profit) w latach 2014–2016**
   * Dwa wykresy słupkowe obok siebie pokazują twarde zestawienie finansowe przedsiębiorstwa w ujęciu rocznym.
     
   Cel analityczny: Weryfikacja czy przychody i zysk idą w parze z realnym zyskiem przedsiębiorstwa (rentownością sprzedaży) oraz pozwalają ocenić stabilność finansową firmy na przestrzeni lat.
   
-* **3. Wykres kolumnowy grupowany (Rentowność produktów w czasie)**
+* **3. Wykres kolumnowy grupowany (Widok Produkty)**
 <p align="center">
     <img src="/raport_glowny/chart_yoy_product_overview.png" alt="Product Overview" width="700">
   </p>
 
-  * Wykres przedstawia zestawienie zysków generowanych przez poszczególne kategorie produktów
+  * Wykres przedstawia rentowność poszczególnych kategorii produktów w czasie.
   * Jedna wizualizacja pokazuje dwa wymiary, bez zbędnego szumu prowadzi odbiorcę do konkretnych wniosków biznesowych.
   
   Cel analityczny: Identyfikacja najbardziej dochodowych produktów oraz śledzenie dynamiki ich rentowości na przestrzeni lat.
   
 
   
-* **4. Wykres słupkowy 100% skumulowany (Struktura koszyka według grup wiekowych)**
+* **4. Wykres słupkowy 100% skumulowany (Widok Klient)**
 <p align="center">
-    <img src="/raport_glowny/basket_structure_customer_overview.png" alt="Product Overview" width="700">
+    <img src="/raport_glowny/basket_structure_customer_overview.png" alt="Customer Overview" width="700">
   </p>
     * Procentowy udział poszczególnych kategorii produktów w całkowitych wydatkach poszczególnych grup demograficznych. 
     * Paski procentowe i podział na kolory pozwalają  w ułamku sekundy zrozumieć nawyki zakupowe bez zagłębiania się w tabele.
@@ -285,9 +285,9 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu.
   Cel analityczny: Zrozumienie nawyków zakupowych różnych pokoleń w celu optymalizacji ofert.
   
 
-* **5. Wykres kolumnowy grupowany**
+* **5. Wykres kolumnowy grupowany (Widok Klient)**
 <p align="center">
-    <img src="/raport_glowny/total_profit_customer_overview.png" alt="Product Overview" width="700">
+    <img src="/raport_glowny/total_profit_customer_overview.png" alt="Customer Overview" width="700">
   </p>
   
   * Wykres przedstawia całkowity zysk netto wygenerowany przez poszczególne grupy wiekowe klientów.
