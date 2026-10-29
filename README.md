@@ -2,9 +2,9 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-Witaj! Dziękuję, że odwiedziłeś moje repozytorium. Poniżej znajdziesz kompleksową prezentację projektu.
+Witaj! Projekt to 3-stronicowy raport Power BI dla europejskiego e-commerce rowerowego. <br> Łączy  model danych i miary DAX z autorskim layoutem z Figmy oraz płynną, przyciskami jak w aplikacjach Web (chowane panele filtrów i dedykowana nawigacja).
 
-Jeśli chcesz przetestować raport bezpośrednio na swoim komputerze, możesz pobrać gotowy plik:
+Możesz pobrać gotowy plik i przetestować go samodzielnie:
 
 <p align="left">
   <a href="raport_glowny/Sprzedaz_SklepRowerowy_Raport_v1.pbix">
@@ -13,11 +13,6 @@ Jeśli chcesz przetestować raport bezpośrednio na swoim komputerze, możesz po
 </p>
 
 ---
-
-Tytuł: <br> 
-Interaktywny, 3-stronicowy raport Power BI dedykowany analizie sprzedaży, marżowości oraz klientów dla europejskiego e-commerce w branży rowerowej (Sprzedaż, Produkt, Klient).<br> Projekt stanowi kompletne rozwiązanie BI – od surowych danych, przez modelowanie i zaawansowane miary DAX, aż po autorski layout w programie Figma.
-
-
 
 <br>
 
@@ -325,11 +320,29 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu. 
 
 </details>
 
+<div id="7-interaktywnosc-raportu"></div>
+<details>
+<summary><b> 7. Interaktywność i UI/UX (Rozbudowany Panel Filtrów i Nawigacja)</b></summary>
+
+<br>
+
+Raport został zaprojektowany z naciskiem na nowoczesny interfejs oraz optymalizację przestrzeni roboczej:
+
+- **Chowany Panel Filtrów (Selection & Bookmarks):**  
+  Zamiast zagracać przestrzeń statycznymi filtrami, utworzyłem dynamiczny panel wysuwany za pomocą ikony suwaków. Wykorzystując *Zakładki (Bookmarks)* oraz panel *Wybór (Selection)*, użytkownik może w każdej chwili włączyć lub ukryć filtry (`filters on / off`)
+
+<p align="center">
+  <img src="hidden_filters.gif" alt="Prezentacja " width="100%">
+</p>
 
 
+  
+
+- **Dedykowany Panel Nawigacyjny:**  
+  Po lewej stronie zaimplementowałem spójny, estetyczny panel boczny z przyciskami, który umożliwia szybkie i płynne przełączanie się pomiędzy głównymi widokami raportu (*Sales Overview*, *Product Overview*, *Customer Overview*), zapewniając doświadczenia zbliżone do nowoczesnych aplikacji.
 
 
-
+</details>
 
 
 
