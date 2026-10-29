@@ -222,7 +222,7 @@ RETURN
 
 <br>
 
-<p style="font-size: 12px; color: #555;">
+<p style="font-size: 15px; color: #555;">
 Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu:<br>
 1. Od ogółu do szczegółu<br>
 2. Dobór wizualizacji do określonej intencji<br>
