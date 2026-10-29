@@ -410,6 +410,26 @@ Największą marżowość netto generują wybrane **modele dętek** czy **koszyk
 
 </details>
 
+<details>
+<summary><b>&emsp; 2. Kim jest najbardziej wartościowy klient (pod kątem wieku i geolokalizacji?)</b></summary>
+
+<br>
+
+Głównym motorem generującym największy zysk netto firmy są klienci z grupy wiekowej **Adults (35-64)**, którzy odpowiadają za dominujący udział w całkowitym przychodzie z wynikiem  4,4 mln$.
+Analiza geograficzna wskazuje kluczowe rynki zbytu, takie jak **Stany Zjednoczone**.
+
+
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" style="border: none; padding: 10px;">
+      <img src="raport_glowny/top_revenue_segment.png" alt="Prezentacja YoY Product Overview" width="90%">
+    </td>
+    <td align="center" style="border: none; padding: 10px;">
+      <img src="raport_glowny/usa_adults.png" alt="Prezentacja High Margin" width="90%">
+    </td>
+  </tr>
+</table>
+</details>
 
 
 
