@@ -72,6 +72,7 @@ Pytanie szczegółowe:
 
 <div id="2-dane"></div>
 <details>
+  
 <summary><b> 2. Dane do raportu</b> <i></i></summary>
 
 <br>
@@ -88,6 +89,10 @@ Pytanie szczegółowe:
 #### c. Miary finansowe
 * **Wolumen i przychody:** *Order_Quantity* (sztuki), *Unit_Price*, *Revenue* (przychód).
 * **Koszty i rentowność:** *Unit_Cost*, *Cost*, *Profit* (zysk)
+<br>
+<br>
+<br>
+<br>
 
 </details>
 
@@ -107,7 +112,10 @@ Model danych został zorganizowany wokół centralnej tabeli faktów:
 <p align="center">
   <img src="model_danych.png" alt="Model danych - Power BI Schema" width="65%">
 </p>
-
+<br>
+<br>
+<br>
+<br>
 </details>
 
 <div id="4-projekt-ui-ux-figma"></div>
@@ -149,7 +157,10 @@ Zanim powstał raport w Power BI, cały interfejs został zaprojektowany od pods
     </td>
   </tr>
 </table>
-
+<br>
+<br>
+<br>
+<br>
 </details>
 
 <div id="5-Logika i dax"></div>
@@ -229,7 +240,10 @@ RETURN
     DIVIDE(TopProductsUnits, TotalCompanyUnits, 0)
 ```
 **Cel analityczny:** Pozwala zweryfikować zasadę Pareto (czy kluczowy zysk idzie w parze z wolumenem) oraz ocenić, jak duże jest uzależnienie sprzedaży od topowego asortymentu w sklepie rowerowym.
-
+<br>
+<br>
+<br>
+<br>
 </details>
 
 <div id="6-prezentacja-wynikow"></div>
@@ -331,7 +345,10 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu. 
   
 <span style="color: #4dabf7; font-weight: bold;">Cel analityczny:</span> Skierowanie działań tam, gdzie zwrot z inwestycji jest najwyższy.
 </details>
-
+<br>
+<br>
+<br>
+<br>
 </details>
 
 <div id="7-interaktywnosc-raportu"></div>
@@ -357,7 +374,10 @@ Raport został zaprojektowany z naciskiem na nowoczesny interfejs oraz optymaliz
 <p align="center">
   <img src="nawigation_pages.gif" alt="Prezentacja " width="90%">
 </p>
-
+<br>
+<br>
+<br>
+<br>
 </details>
 
 <div id="8-wnioski-biznesowe"></div>
