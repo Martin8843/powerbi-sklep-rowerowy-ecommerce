@@ -394,7 +394,7 @@ Głównym kołem zamachowym przychodów firmy są rowery (Bikes), które generuj
 Największą marżowość netto generują wbrane **modele dętek* czy **koszyków na bidon** osiągające ponad 60-70% marży.
 
 <p align="center">
-  <img src="chart_yoy_product_overview.png" alt="Prezentacja " width="70%">
+  <img src="/raport_glowny/chart_yoy_product_overview.png" alt="Prezentacja " width="70%">
 </p>
 
 
