@@ -253,6 +253,33 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu.
     
   Cel analityczny: Błyskawiczna informacja o tempie rozwoju oraz wysokiej skalowalności biznesu rowerowego. 
 
+* **2. Wykresy słupkowe Revenue vs Profit**
+<p align="center">
+    <img src="/raport_glowny/revenue_vs_profit_sales_overview.png" alt="Sales Overview" width="700">
+  </p>
+
+* **Porównanie roczne: Przychody (Revenue) vs Zysk (Profit) w latach 2014–2016**
+  * ** Dwa wykresy słupkowe obok siebie pokazują twarde zestawienie finansowe przedsiębiorstwa w ujęciu rocznym.
+    
+  Cel analityczny: Weryfikacja czy przychody i zysk idą w parze z realnym zyskiem przedsiębiorstwa (rentownością sprzedaży) oraz pozwalają ocenić stabilność finansową firmy na przestrzeni lat.
+  
+
+
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
 </details>
 
 
