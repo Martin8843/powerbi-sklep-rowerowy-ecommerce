@@ -274,6 +274,26 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu.
   Cel analityczny: Identyfikacja najbardziej dochodowych produktów oraz śledzenie dynamiki ich rentowości na przestrzeni lat.
   
 
+  
+* **4. Wykres słupkowy 100 % skumulowany (struktura koszyka według grup wiekowych) **
+<p align="center">
+    <img src="/raport_glowny/basket_structure_customer_overview.png" alt="Product Overview" width="700">
+  </p>
+  * Procentowy udział poszczególnych kategorii produktów w całkowitych wydatkach poszczególnych grup demograficznych. 
+  * Paski procentowe i podział na kolory pozwalają  w ułamku sekundy zrozumieć nawyki zakupowe bez zagłębiania się w tabele.
+  
+  Cel analityczny: Zrozumienie nawyków zakupowych różnych pokoleń w celu optymalizacji ofert.
+  
+
+* **4. **
+<p align="center">
+    <img src="/raport_glowny/chart_yoy_product_overview.png" alt="Product Overview" width="700">
+  </p>
+*
+  * Wykres przedstawia zestawienie zysków generowanych przez poszczególne kategorie produktów
+
+  
+  Cel analityczny: 
 
 </details>
 
