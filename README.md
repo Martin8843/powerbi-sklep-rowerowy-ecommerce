@@ -312,8 +312,6 @@ Cel analityczny: Zrozumienie nawyków zakupowych różnych pokoleń w celu optym
 Cel analityczny: Skierowanie działań tam, gdzie zwrot z inwestycji jest najwyższy.
 </details>
 
-</details>
-
 
 
 
