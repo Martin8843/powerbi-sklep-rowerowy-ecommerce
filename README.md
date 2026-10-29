@@ -232,6 +232,7 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu:
 
 </div>
 
+
 ---
 
 #### Wizualiacje (przykłady):
@@ -311,10 +312,6 @@ Warstwa wizualna została zaprojektowana w oparciu o zasady Data Storytellingu:
 
 
 
-
-
-
-</details>
 
 
 
