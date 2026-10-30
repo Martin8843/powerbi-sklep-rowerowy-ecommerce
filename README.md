@@ -437,7 +437,8 @@ Analiza geograficzna wskazuje kluczowe rynki zbytu, takie jak **Stany Zjednoczon
 <summary><b>&emsp; 3. W którym roku firma zanotowała rekordowy przychód miesięczny i ile on wyniósł?</b></summary>
 
 <br>
-Wybierając na wykresie strzałkę w dół (poziom hierarchii dat o 1 niżej) można sprawdzić dane dla miesięcy - **Grudzień 2015 – 2,7 mln $**
+
+Wybierając na wykresie ikone dwie strzałki (rozwiń poziom hierarchii dat o 1 niżej) można sprawdzić dane dla miesięcy - **Grudzień 2015 – 2,7 mln**
 
 
 <table align="center" style="border: none;">
