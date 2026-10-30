@@ -67,7 +67,7 @@ Pytania główne:
 
 Pytanie szczegółowe: 
 
-&emsp;**1. Które konkretnie produkty lub linie asortymentowe są absolutnymi bestsellerami generującymi największą wolumenową sprzedaż, a które najmniejszą?**
+&emsp;**1. Jaki jest średni profil zakupowy klienta (średnia wartość zamówienia i liczba produktów w koszyku) w zależności od kategorii głównej produktu?**
 <br>
 <br>
 <br>
@@ -245,7 +245,7 @@ VAR TotalCompanyUnits =
 RETURN
     DIVIDE(TopProductsUnits, TotalCompanyUnits, 0)
 ```
-**Cel analityczny:** Pozwala zweryfikować zasadę Pareto (czy kluczowy zysk idzie w parze z wolumenem) oraz ocenić, jak duże jest uzależnienie sprzedaży od topowego asortymentu w sklepie rowerowym.
+**Cel analityczny:** Pozwala zweryfikować czy kluczowy zysk idzie w parze z wolumenem oraz ocenić, jak duże jest uzależnienie sprzedaży od topowego asortymentu w sklepie rowerowym.
 <br>
 <br>
 <br>
@@ -458,7 +458,7 @@ Wybierając na wykresie ikone dwie strzałki rozwija się poziom hierarchii dat 
 
 
 <details>
-<summary><b>&emsp; Pytanie Szczegółowe: Jaki jest średni profil zakupowy klienta (średnia wartość zamówienia i liczba produktów w koszyku) w zależności od kategorii głównej produktu ?</b></summary>
+<summary><b>&emsp; Pytanie Szczegółowe: Jaki jest średni profil zakupowy klienta (średnia wartość zamówienia i liczba produktów w koszyku) w zależności od kategorii głównej produktu?</b></summary>
 
 <br>
 
