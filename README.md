@@ -53,11 +53,11 @@ Zarząd e-commerce rowerowego potrzebuje **spójnego wglądu w realną rentowno�
 
 Pytania główne:
 
-&emsp;**1. Które kategorie produktów stanowią „koło zamachowe” przychodów, a które generują najwyższą marżowość netto?**
+&emsp;**1. Które kategorie produktów stanowią „koło zamachowe” przychodów, <br> a które generują najwyższą marżowość netto?**
 
 &emsp;**2. Kim jest najbardziej wartościowy klient (pod kątem wieku i geolokalizacji?)**
 
-&emsp;**3. 3. W którym roku firma zanotowała rekordowy przychód miesięczny i ile on wyniósł?**
+&emsp;**3. W którym roku firma zanotowała rekordowy przychód miesięczny i ile on wyniósł?**
 
 Pytanie szczegółowe: 
 
@@ -390,7 +390,7 @@ Projekt został zrealizowany pod kątem konkretnych pytań analitycznych postawi
 
 
 <details>
-<summary><b>&emsp; 1. Które kategorie produktów stanowią „koło zamachowe” przychodów, a które generują najwyższą marżowość netto?</b></summary>
+<summary><b>&emsp; Pytanie Główne 1:  Które kategorie produktów stanowią „koło zamachowe” przychodów, a które generują najwyższą marżowość netto?</b></summary>
 
 <br>
 
@@ -411,7 +411,7 @@ Największą marżowość netto generują wybrane **modele dętek** czy **koszyk
 </details>
 
 <details>
-<summary><b>&emsp; 2. Kim jest najbardziej wartościowy klient (pod kątem wieku i geolokalizacji?)</b></summary>
+<summary><b>&emsp; Pytanie Główne 2: Kim jest najbardziej wartościowy klient (pod kątem wieku i geolokalizacji?)</b></summary>
 
 <br>
 
@@ -434,7 +434,7 @@ Analiza geograficzna wskazuje kluczowe rynki zbytu, takie jak **Stany Zjednoczon
 
 
 <details>
-<summary><b>&emsp; 3. W którym roku firma zanotowała rekordowy przychód miesięczny i ile on wyniósł?</b></summary>
+<summary><b>&emsp; Pytanie Główne 3: W którym roku firma zanotowała rekordowy przychód miesięczny i ile on wyniósł?</b></summary>
 
 <br>
 
@@ -451,7 +451,21 @@ Wybierając na wykresie ikone dwie strzałki (rozwiń poziom hierarchii dat o 1 
 </details>
 
 
+<details>
+<summary><b>&emsp; Pytanie Szczegółowe: ?</b></summary>
 
+<br>
+
+
+
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" style="border: none; padding: 30px;">
+      <img src="raport_glowny/pik_dec_2015.png" alt="Prezentacja sales performance" width="90%">
+    </td
+  </tr>
+</table>
+</details>
 
 
 
