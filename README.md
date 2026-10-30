@@ -57,7 +57,7 @@ Pytania główne:
 
 &emsp;**2. Kim jest najbardziej wartościowy klient (pod kątem wieku i geolokalizacji?)**
 
-&emsp;**3. W jakich miesiącach występuje szczyt sprzedażowy i jak duża jest dysproporcja w przychodach między sezonem cieplym a zimwa?**
+&emsp;**3. 3. W którym roku firma zanotowała rekordowy przychód miesięczny i ile on wyniósł?**
 
 Pytanie szczegółowe: 
 
@@ -434,21 +434,17 @@ Analiza geograficzna wskazuje kluczowe rynki zbytu, takie jak **Stany Zjednoczon
 
 
 <details>
-<summary><b>&emsp; 3. W jakich miesiącach występuje szczyt sprzedażowy i jak duża jest dysproporcja w przychodach między sezonem cieplym a zimwa?</b></summary>
+<summary><b>&emsp; 3. W którym roku firma zanotowała rekordowy przychód miesięczny i ile on wyniósł?</b></summary>
 
 <br>
-
-
+Wybierając na wykresie strzałkę w dół (poziom hierarchii dat o 1 niżej) można sprawdzić dane dla miesięcy - **Grudzień 2015 – 2,7 mln $**
 
 
 <table align="center" style="border: none;">
   <tr>
     <td align="center" style="border: none; padding: 30px;">
-      <img src="raport_glowny/top_revenue_segment.png" alt="Prezentacja YoY Product Overview" width="90%">
-    </td>
-    <td align="center" style="border: none; padding: 10px;">
-      <img src="raport_glowny/usa_adults.png" alt="Prezentacja High Margin" width="90%">
-    </td>
+      <img src="raport_glowny/pik_dec_2015.png" alt="Prezentacja sales performance" width="90%">
+    </td
   </tr>
 </table>
 </details>
