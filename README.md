@@ -1,4 +1,4 @@
-# 📊 Dashboard Power BI – Analiza Sprzedaży E-Commerce (Case Study)
+# 📊 Dashboard Power BI – Analiza Sprzedaży E-Commerce (Case&nbsp;Study)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
