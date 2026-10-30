@@ -4,7 +4,7 @@
 
 Cześć!, <br><br> dziękuję że odwiedzasz moje repozytorium! Zapraszam cię do zapoznania się z moim projektem.  <br> Jest to to 3-stronicowy raport Power BI dla europejskiego sklepu rowerowego połączony z dokładną analizą problemu. <br> Na szczególną uwagę zasługuje autorski design stron raportu. Tła kanwy od podstaw zaprojektowałem w programie Figma, co pozwoliło uzyskać przejrzysty i spójny wizualnie interfejs.
 
-Możesz pobrać gotowy plik i przetestować go samodzielnie:
+### Możesz pobrać gotowy plik i przetestować go samodzielnie:
 
 <p align="left">
   <a href="raport_glowny/Sprzedaz_SklepRowerowy_Raport_v1.pbix">
