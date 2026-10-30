@@ -484,6 +484,8 @@ Liczba produktów w koszyku: zestawy odzieżowe.
 </table>
 </details>
 
+</details>
+
 
 
 
