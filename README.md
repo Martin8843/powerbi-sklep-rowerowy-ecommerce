@@ -456,16 +456,16 @@ Wybierając na wykresie ikone dwie strzałki (rozwiń poziom hierarchii dat o 1 
 
 <br>
 
-**Dla kategorii Bikes:**
-Wartość zamówienia: Wysoka (np. powyżej 1000$).
+**Dla kategorii Bikes** <br>
+Wartość zamówienia: Wysoka (np. powyżej 1000$). <br>
 Liczba produktów w koszyku: Średnio 1 sztuka na zamówienie (klient kupuje jeden konkretny rower).
 
-**Dla kategorii Accessories:**
-Wartość zamówienia: ok. 200$.
+**Dla kategorii Accessories** <br>
+Wartość zamówienia: ok. 200$. <br>
 Liczba produktów w koszyku: Wysoka  10-15 produktów (klienci wrzucają do koszyka kilka sztuk drobnych elementów naraz, np. dętki, bidony).
 
-**Dla kategorii Clothing:**
-Wartość zamówienia: 400-500$.
+**Dla kategorii Clothing** <br>
+Wartość zamówienia: 400-500$. <br>
 Liczba produktów w koszyku: zestawy odzieżowe.
 
 
