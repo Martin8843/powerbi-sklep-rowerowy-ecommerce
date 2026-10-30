@@ -12,10 +12,7 @@ Możesz pobrać gotowy plik i przetestować go samodzielnie:
   </a>
 </p>
 
-<p align="center">
-  <a href="**Uwaga**">
-  </a>
-</p>
+###Uwaga
 
 Plik .pbix zawiera kompletnie załadowany i gotowy model danych. <br>Do repozytorium dołączono również pliki źródłowe w folderze /dataset. <br> Aby przeprowadzić ponowne odświeżenie (Refresh) w Power Query, wystarczy wskazać nową ścieżkę do plików na swoim dysku lokalnym.
 
