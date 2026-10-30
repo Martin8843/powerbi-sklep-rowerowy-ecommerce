@@ -11,6 +11,7 @@ Możesz pobrać gotowy plik i przetestować go samodzielnie:
     <img src="https://img.shields.io/badge/📥_Pobierz_plik_projektu.pbix-Pobierz_Raport_Power_BI-2ea44f?style=for-the-badge&logo=powerbi&logoColor=white" alt="Pobierz PBIX">
   </a>
 </p>
+---
 
 ### Uwaga
 
