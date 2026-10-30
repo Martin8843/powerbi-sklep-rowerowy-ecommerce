@@ -438,7 +438,7 @@ Analiza geograficzna wskazuje kluczowe rynki zbytu, takie jak **Stany Zjednoczon
 
 <br>
 
-Wybierając na wykresie ikone dwie strzałki (rozwiń poziom hierarchii dat o 1 niżej) można sprawdzić dane dla miesięcy - **Grudzień 2015 – 2,7 mln**
+Wybierając na wykresie ikone dwie strzałki rozwija się poziom hierarchii dat o 1 niżej. Można wówczas sprawdzić dane dla miesięcy. Odpowiedzią na pytanie biznesu jest **Grudzień 2015 – 2,7 mln**
 
 
 <table align="center" style="border: none;">
