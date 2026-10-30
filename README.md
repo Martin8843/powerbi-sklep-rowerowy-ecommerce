@@ -2,7 +2,7 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-Część, dziękuję że odwiedzasz moje repo! Zapraszam cię do zapoznania się z moim projektem . <br> Jest to to 3-stronicowy raport Power BI dla europejskiego e-commerce rowerowego. <br> Łączy  model danych i miary DAX z autorskim layoutem zrobionym w programie Figma oraz płynną interakcją przycisków.
+Część, dziękuję że odwiedzasz moje repozytorium! Zapraszam cię do zapoznania się z moim projektem .  <br> Jest to to 3-stronicowy raport Power BI dla europejskiego e-commerce rowerowego połączony z dokładną analizą problemu. <br> Łączy  model danych i miary DAX z autorskim layoutem zrobionym w programie Figma oraz płynną interakcją przycisków.
 
 Możesz pobrać gotowy plik i przetestować go samodzielnie:
 
