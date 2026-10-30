@@ -53,7 +53,7 @@ Zarząd e-commerce rowerowego potrzebuje **spójnego wglądu w realną rentowno�
 
 Pytania główne:
 
-&emsp;**1. Które kategorie produktów stanowią „koło zamachowe” przychodów, <br> a które generują najwyższą marżowość netto?**
+&emsp;**1. Które kategorie produktów stanowią „koło zamachowe” przychodów, a które generują najwyższą marżowość netto?**
 
 &emsp;**2. Kim jest najbardziej wartościowy klient (pod kątem wieku i geolokalizacji?)**
 
@@ -452,16 +452,27 @@ Wybierając na wykresie ikone dwie strzałki (rozwiń poziom hierarchii dat o 1 
 
 
 <details>
-<summary><b>&emsp; Pytanie Szczegółowe: ?</b></summary>
+<summary><b>&emsp; Pytanie Szczegółowe: Jaki jest średni profil zakupowy klienta (średnia wartość zamówienia i liczba produktów w koszyku) w zależności od kategorii głównej produktu ?</b></summary>
 
 <br>
 
+**Dla kategorii Bikes:**
+Wartość zamówienia: Wysoka (np. powyżej 1000$).
+Liczba produktów w koszyku: Średnio 1 sztuka na zamówienie (klient kupuje jeden konkretny rower).
+
+**Dla kategorii Accessories:**
+Wartość zamówienia: ok. 200$.
+Liczba produktów w koszyku: Wysoka  10-15 produktów (klienci wrzucają do koszyka kilka sztuk drobnych elementów naraz, np. dętki, bidony).
+
+**Dla kategorii Clothing:**
+Wartość zamówienia: 400-500$.
+Liczba produktów w koszyku: zestawy odzieżowe.
 
 
 <table align="center" style="border: none;">
   <tr>
     <td align="center" style="border: none; padding: 30px;">
-      <img src="raport_glowny/pik_dec_2015.png" alt="Prezentacja sales performance" width="90%">
+      <img src="raport_glowny/basket_volume_customer.png" alt="Prezentacja customer" width="90%">
     </td
   </tr>
 </table>
